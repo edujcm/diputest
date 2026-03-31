@@ -1,0 +1,2659 @@
+{
+  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": 1,
+      "enunciado": "¿Cuál de los siguientes no es un valor superior del ordenamiento jurídico según el art. 1.1 de la Constitución Española?",
+      "opciones": [
+        "La libertad",
+        "La justicia",
+        "La seguridad jurídica",
+        "El pluralismo político"
+      ],
+      "correcta": 2,
+      "explicacion": "Los valores superiores son libertad, justicia, igualdad y pluralismo político. La seguridad jurídica es un principio del art. 9.3."
+    },
+    {
+      "id": 2,
+      "tema": 2,
+      "enunciado": "Según la Constitución, las Cortes Generales ejercen la potestad legislativa del Estado y están compuestas por:",
+      "opciones": [
+        "El Congreso de los Diputados y el Senado",
+        "El Gobierno y el Parlamento",
+        "El Congreso de los Diputados exclusivamente",
+        "El Rey y las Cámaras"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 66.1 establece que las Cortes Generales representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado."
+    },
+    {
+      "id": 3,
+      "tema": 4,
+      "enunciado": "En la Diputación Provincial, ¿quién nombra y separa libremente a los Vicepresidentes de entre los miembros de la Junta de Gobierno?",
+      "opciones": [
+        "El Pleno",
+        "El Presidente",
+        "El Consejo de Gobierno",
+        "El Ministerio de Política Territorial"
+      ],
+      "correcta": 1,
+      "explicacion": "Es una atribución propia del Presidente de la Corporación Local."
+    },
+    {
+      "id": 4,
+      "tema": 5,
+      "enunciado": "Según la Ley 39/2015, el plazo máximo para dictar y notificar la resolución de un procedimiento, si no se fija otro en su normativa, será de:",
+      "opciones": [
+        "Un mes",
+        "Tres meses",
+        "Seis meses",
+        "Diez días"
+      ],
+      "correcta": 1,
+      "explicacion": "El plazo general supletorio es de tres meses según el artículo 21.3 de la Ley 39/2015."
+    },
+    {
+      "id": 5,
+      "tema": 6,
+      "enunciado": "¿Qué tipo de invalidez administrativa se aplica a los actos que lesionan derechos y libertades susceptibles de amparo constitucional?",
+      "opciones": [
+        "Anulabilidad",
+        "Nulidad de pleno derecho",
+        "Irregularidad no invalidante",
+        "Revocación"
+      ],
+      "correcta": 1,
+      "explicacion": "Es un supuesto de nulidad de pleno derecho recogido en el art. 47.1 de la Ley 39/2015."
+    },
+    {
+      "id": 6,
+      "tema": 9,
+      "enunciado": "Para el acceso al Subgrupo C2, como el convocado en estas bases, ¿qué titulación se exige?",
+      "opciones": [
+        "Bachiller",
+        "Título de Técnico Superior",
+        "Graduado en ESO o equivalente",
+        "Certificado de escolaridad"
+      ],
+      "correcta": 2,
+      "explicacion": "Las bases y el TREBEP exigen el título de Graduado en ESO para el subgrupo C2[cite: 362, 384]."
+    },
+    {
+      "id": 7,
+      "tema": 10,
+      "enunciado": "En el presupuesto de una entidad local, las transferencias de crédito son:",
+      "opciones": [
+        "Aumentos de gasto financiados con nuevos ingresos",
+        "Traspasos de dotaciones entre distintas aplicaciones presupuestarias",
+        "Gastos realizados sin crédito suficiente",
+        "Saldos positivos del ejercicio anterior"
+      ],
+      "correcta": 1,
+      "explicacion": "Es una modificación de crédito que permite mover fondos entre partidas sin aumentar el gasto total."
+    },
+    {
+      "id": 8,
+      "tema": 11,
+      "enunciado": "Según el RGPD, la persona física a la que identifican los datos personales se denomina:",
+      "opciones": [
+        "Responsable",
+        "Encargado",
+        "Interesado",
+        "Delegado"
+      ],
+      "correcta": 2,
+      "explicacion": "El 'interesado' es el titular de los datos personales objeto de tratamiento."
+    },
+    {
+      "id": 9,
+      "tema": 12,
+      "enunciado": "En Microsoft Word, ¿qué combinación de teclas se utiliza por defecto para 'Guardar' un documento en la versión española?",
+      "opciones": [
+        "Ctrl + S",
+        "Ctrl + G",
+        "Ctrl + C",
+        "Alt + F4"
+      ],
+      "correcta": 1,
+      "explicacion": "En la versión en español, Ctrl + G es el atajo para guardar (Ctrl + S es en inglés)."
+    },
+    {
+      "id": 10,
+      "tema": 8,
+      "enunciado": "La adquisición de la condición de funcionario de carrera requiere, entre otros pasos, el acto de acatamiento de la Constitución y, en su caso:",
+      "opciones": [
+        "Del Código Penal",
+        "Del Estatuto de Autonomía",
+        "De la Ley de Presupuestos",
+        "De las órdenes del sindicato"
+      ],
+      "correcta": 1,
+      "explicacion": "El TREBEP exige el acatamiento de la Constitución y del Estatuto de Autonomía correspondiente."
+    }
+  ]
+}
+
+{
+  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
+  "fuente": "BOP Alicante Nº 118, 25/06/2025",
+  "preguntas": [
+    {
+      "id": 11,
+      "tema": 4,
+      "enunciado": "Según las bases, ¿cuántos miembros integran la Comisión Técnica de Valoración?",
+      "opciones": [
+        "Tres miembros",
+        "Cinco miembros",
+        "Siete miembros",
+        "Nueve miembros"
+      ],
+      "correcta": 1,
+      "explicacion": "La Comisión Técnica de Valoración estará integrada por cinco miembros, personal funcionario de carrera[cite: 459, 466]."
+    },
+    {
+      "id": 12,
+      "tema": 4,
+      "enunciado": "¿Qué mayoría de miembros de la Comisión Técnica de Valoración debe pertenecer a la misma área de conocimientos exigida para el ingreso?",
+      "opciones": [
+        "Un tercio",
+        "La totalidad",
+        "La mayoría de sus miembros",
+        "Dos de sus cinco miembros"
+      ],
+      "correcta": 2,
+      "explicacion": "Las bases especifican que la mayoría de sus miembros deberán pertenecer a la misma área de conocimientos que la exigida para el ingreso[cite: 469]."
+    },
+    {
+      "id": 13,
+      "tema": 1,
+      "enunciado": "La soberanía nacional reside en:",
+      "opciones": [
+        "El Rey",
+        "Las Cortes Generales",
+        "El Pueblo Español",
+        "El Gobierno de la Nación"
+      ],
+      "correcta": 2,
+      "explicacion": "Según el artículo 1.2 de la Constitución Española, la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado."
+    },
+    {
+      "id": 14,
+      "tema": 6,
+      "enunciado": "¿Cuál es el quórum mínimo para que la Comisión Técnica de Valoración pueda constituirse válidamente?",
+      "opciones": [
+        "La asistencia del Presidente y el Secretario únicamente",
+        "La asistencia de todos sus miembros titulares",
+        "La asistencia de, al menos, tres de sus miembros",
+        "La asistencia de la mayoría absoluta"
+      ],
+      "correcta": 2,
+      "explicacion": "La Comisión no podrá constituirse ni actuar sin la asistencia de, al menos, tres de sus miembros (titulares o suplentes)[cite: 472]."
+    },
+    {
+      "id": 15,
+      "tema": 6,
+      "enunciado": "En el Turno Libre, ¿en qué consiste el primer ejercicio de la fase de oposición?",
+      "opciones": [
+        "Un supuesto práctico de oficina",
+        "Una prueba de mecanografía",
+        "Un cuestionario teórico de 60 preguntas",
+        "Una entrevista personal"
+      ],
+      "correcta": 2,
+      "explicacion": "El primer ejercicio es una prueba teórica consistente en un cuestionario de 60 preguntas sobre el temario del Anexo I[cite: 502, 503]."
+    },
+    {
+      "id": 16,
+      "tema": 6,
+      "enunciado": "¿Cómo se penalizan las respuestas erróneas en el cuestionario de 60 preguntas del turno libre?",
+      "opciones": [
+        "No penalizan",
+        "Restan un cuarto del valor de una correcta",
+        "Restan un tercio del valor de cada contestación correcta",
+        "Restan la mitad del valor de una correcta"
+      ],
+      "correcta": 2,
+      "explicacion": "Las contestaciones erróneas se valoran negativamente con una penalización equivalente a un tercio del valor de cada acierto[cite: 512]."
+    },
+    {
+      "id": 17,
+      "tema": 6,
+      "enunciado": "¿Cuál es la puntuación mínima necesaria para no ser eliminado en el segundo ejercicio (Teórico-Práctico)?",
+      "opciones": [
+        "4 puntos",
+        "5 puntos",
+        "6 puntos",
+        "7 puntos"
+      ],
+      "correcta": 1,
+      "explicacion": "El ejercicio se valorará de 0 a 10 puntos, siendo eliminados quienes no obtengan un mínimo de 5 puntos[cite: 517]."
+    },
+    {
+      "id": 18,
+      "tema": 20,
+      "enunciado": "Según el temario de ofimática (Tema 12), ¿cuál de estos no es un apartado mencionado explícitamente sobre Microsoft Word?",
+      "opciones": [
+        "Correspondencia",
+        "Diseño de Páginas Web complejas",
+        "Tablas",
+        "Plantillas"
+    ],
+      "correcta": 1,
+      "explicacion": "El temario de Word incluye: creación, plantillas, tablas, correspondencia, imprimir, entre otros, pero no diseño web complejo."
+    },
+    {
+      "id": 19,
+      "tema": 11,
+      "enunciado": "¿Cuál es el objeto de la Ley de Transparencia mencionada en el Tema 11?",
+      "opciones": [
+        "Regular el secreto sumarial",
+        "Garantizar el acceso a la información pública y el buen gobierno",
+        "Proteger exclusivamente los datos personales",
+        "Establecer el régimen sancionador de los funcionarios"
+      ],
+      "correcta": 1,
+      "explicacion": "El tema 11 incluye específicamente la Ley de Transparencia, acceso a la información pública y buen gobierno."
+    },
+    {
+      "id": 20,
+      "tema": 4,
+      "enunciado": "¿Quién ostenta la presidencia de la Comisión Técnica de Valoración en caso de ausencia del titular y del suplente?",
+      "opciones": [
+        "El miembro más joven",
+        "El Secretario de la Comisión",
+        "El miembro de mayor jerarquía, antigüedad y edad (por ese orden)",
+        "Se suspende la sesión obligatoriamente"
+      ],
+      "correcta": 2,
+      "explicacion": "En caso de ausencia, la presidencia la ostentará el miembro de mayor jerarquía, antigüedad y edad[cite: 473]."
+    }
+  ]
+}
+
+
+{
+  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
+  "preguntas": [
+    {
+      "id": 21,
+      "tema": 5,
+      "enunciado": "Según la Ley 39/2015, ¿cuándo surten efectos las notificaciones?",
+      "opciones": [
+        "En el momento en que se firman por la autoridad",
+        "A los tres días de su envío",
+        "En el momento en que se practiquen de acuerdo con lo previsto en la Ley",
+        "Siempre el día siguiente a su recepción"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 40.2 de la Ley 39/2015 establece que las notificaciones surtirán efecto a partir de que se practiquen conforme a la ley."
+    },
+    {
+      "id": 22,
+      "tema": 7,
+      "enunciado": "¿Qué recurso administrativo se interpone ante el órgano que dictó el acto que se impugna para que sea resuelto por su superior jerárquico?",
+      "opciones": [
+        "Recurso de reposición",
+        "Recurso de alzada",
+        "Recurso extraordinario de revisión",
+        "Reclamación de responsabilidad"
+      ],
+      "correcta": 1,
+      "explicacion": "El recurso de alzada se interpone ante el órgano que dictó el acto o ante su superior, pero siempre lo resuelve este último."
+    },
+    {
+      "id": 23,
+      "tema": 3,
+      "enunciado": "Según el Estatuto de Autonomía de la Comunidad Valenciana, ¿dónde tiene su sede la Generalitat?",
+      "opciones": [
+        "En Alicante",
+        "En Castellón",
+        "En la ciudad de Valencia",
+        "En Elche"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 5 del Estatuto establece que la sede de la Generalitat será la ciudad de Valencia, donde tendrán su sede las Corts, la Presidencia y el Consell."
+    },
+    {
+      "id": 24,
+      "tema": 8,
+      "enunciado": "De acuerdo con el TREBEP, el personal eventual es aquel que:",
+      "opciones": [
+        "Supera un proceso selectivo de oposición",
+        "Realiza funciones de confianza o asesoramiento especial",
+        "Sustituye a un funcionario de carrera por baja médica",
+        "Ocupa plazas vacantes de forma interina"
+      ],
+      "correcta": 1,
+      "explicacion": "El personal eventual desempeña funciones expresamente calificadas como de confianza o asesoramiento especial."
+    },
+    {
+      "id": 25,
+      "tema": 10,
+      "enunciado": "¿Cuál es el período impositivo habitual en el Impuesto sobre Bienes Inmuebles (IBI)?",
+      "opciones": [
+        "El año natural",
+        "El trimestre",
+        "Cinco años",
+        "El mes en que se produce la compraventa"
+      ],
+      "correcta": 0,
+      "explicacion": "En el IBI, el período impositivo coincide con el año natural."
+    },
+    {
+      "id": 26,
+      "tema": 2,
+      "enunciado": "El Tribunal Constitucional se compone de:",
+      "opciones": [
+        "10 miembros",
+        "12 miembros",
+        "15 miembros",
+        "20 miembros"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 159.1 de la Constitución establece que el Tribunal Constitucional se compone de 12 miembros nombrados por el Rey."
+    },
+    {
+      "id": 27,
+      "tema": 12,
+      "enunciado": "En Word, ¿cuál es la función de la herramienta 'Copiar formato'?",
+      "opciones": [
+        "Duplica el texto seleccionado",
+        "Aplica el estilo y formato de un texto seleccionado a otro",
+        "Crea una copia de seguridad del documento",
+        "Cambia el idioma del diccionario"
+      ],
+      "correcta": 1,
+      "explicacion": "Permite copiar únicamente el formato (fuente, color, tamaño) y aplicarlo rápidamente a otra sección de texto."
+    },
+    {
+      "id": 28,
+      "tema": 5,
+      "enunciado": "¿Qué nombre recibe el silencio administrativo cuando la administración no resuelve en plazo un procedimiento iniciado a solicitud del interesado?",
+      "opciones": [
+        "Silencio negativo (desestimación) o positivo (estimación)",
+        "Silencio nulo",
+        "Caducidad forzosa",
+        "Prórroga automática"
+      ],
+      "correcta": 0,
+      "explicacion": "Como regla general es positivo, salvo que una ley, norma de la UE o de Derecho Internacional disponga lo contrario."
+    },
+    {
+      "id": 29,
+      "tema": 11,
+      "enunciado": "El principio de 'minimización de datos' del RGPD significa que:",
+      "opciones": [
+        "Los datos deben ser borrados cada 24 horas",
+        "Deben ser adecuados, pertinentes y limitados a lo necesario",
+        "Solo se pueden usar datos numéricos",
+        "Los datos no pueden ocupar más de 1MB"
+      ],
+      "correcta": 1,
+      "explicacion": "Significa que solo se deben tratar los datos estrictamente necesarios para el fin perseguido."
+    },
+    {
+      "id": 30,
+      "tema": 4,
+      "enunciado": "¿Quién tiene la competencia para la aprobación del presupuesto de la Diputación Provincial?",
+      "opciones": [
+        "El Presidente",
+        "La Junta de Gobierno",
+        "El Pleno",
+        "El Tesorero"
+      ],
+      "correcta": 2,
+      "explicacion": "La aprobación del presupuesto es una competencia irrenunciable del Pleno de la Corporación."
+    },
+    {
+      "id": 31,
+      "tema": 9,
+      "enunciado": "¿Qué situación administrativa se produce cuando un funcionario de carrera pasa a prestar servicios en un Gabinete de un Ministro?",
+      "opciones": [
+        "Excedencia voluntaria",
+        "Servicios especiales",
+        "Servicio activo",
+        "Suspensión de funciones"
+      ],
+      "correcta": 1,
+      "explicacion": "El paso a cargos políticos o de confianza suele conllevar la declaración de servicios especiales con reserva de plaza."
+    },
+    {
+      "id": 32,
+      "tema": 10,
+      "enunciado": "Las tasas se diferencian de los precios públicos en que:",
+      "opciones": [
+        "Las tasas son voluntarias",
+        "Las tasas se pagan por servicios de solicitud obligatoria o prestados en régimen de monopolio",
+        "Los precios públicos son impuestos",
+        "No hay diferencia legal"
+      ],
+      "correcta": 1,
+      "explicacion": "La nota de obligatoriedad o la falta de concurrencia con el sector privado es lo que define a la tasa frente al precio público."
+    },
+    {
+      "id": 33,
+      "tema": 1,
+      "enunciado": "Los derechos fundamentales y libertades públicas se recogen en la Constitución en:",
+      "opciones": [
+        "El Título Preliminar",
+        "El Título I, Capítulo Segundo, Sección 1ª",
+        "El Título II",
+        "El Título IV"
+      ],
+      "correcta": 1,
+      "explicacion": "Los derechos fundamentales de mayor protección están en los artículos 15 al 29."
+    },
+    {
+      "id": 34,
+      "tema": 6,
+      "enunciado": "¿Es posible la convalidación de un acto administrativo nulo de pleno derecho?",
+      "opciones": [
+        "Sí, siempre",
+        "No, solo los anulables son convalidables",
+        "Sí, si lo autoriza el interesado",
+        "Sí, mediante la subsanación de defectos"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 52 de la Ley 39/2015 establece que solo la administración podrá convalidar los actos anulables."
+    },
+    {
+      "id": 35,
+      "tema": 12,
+      "enunciado": "En el correo electrónico, ¿qué significa el campo 'CCO'?",
+      "opciones": [
+        "Copia Con Orden",
+        "Copia de Carbono Oculta",
+        "Correo Con Objeto",
+        "Comunicación Certificada Ordinaria"
+      ],
+      "correcta": 1,
+      "explicacion": "Permite enviar una copia a un destinatario sin que el resto de receptores vean su dirección."
+    },
+    {
+      "id": 36,
+      "tema": 8,
+      "enunciado": "¿A qué edad se produce la jubilación forzosa del funcionario público con carácter general?",
+      "opciones": [
+        "60 años",
+        "65 años",
+        "67 años",
+        "70 años"
+      ],
+      "correcta": 1,
+      "explicacion": "Aunque existen prórrogas, la edad legal de jubilación forzosa general según el TREBEP son los 65 años."
+    },
+    {
+      "id": 37,
+      "tema": 5,
+      "enunciado": "La abstención y la recusación son mecanismos para garantizar:",
+      "opciones": [
+        "La celeridad del procedimiento",
+        "La imparcialidad de la autoridad o personal al servicio de la administración",
+        "El ahorro presupuestario",
+        "La publicidad de los actos"
+      ],
+      "correcta": 1,
+      "explicacion": "Evitan que personas con intereses personales en el asunto participen en la decisión."
+    },
+    {
+      "id": 38,
+      "tema": 4,
+      "enunciado": "¿Qué órgano de la Diputación de Alicante asiste al Presidente en el ejercicio de sus atribuciones?",
+      "opciones": [
+        "El Pleno",
+        "La Junta de Gobierno",
+        "La Comisión de Cuentas",
+        "El Tribunal Económico Administrativo"
+      ],
+      "correcta": 1,
+      "explicacion": "La Junta de Gobierno tiene como función primordial la asistencia al Presidente."
+    },
+    {
+      "id": 39,
+      "tema": 10,
+      "enunciado": "¿Cómo se llama el documento que refleja la situación de la Tesorería en un momento dado?",
+      "opciones": [
+        "Arqueo de caja",
+        "Presupuesto consolidado",
+        "Memoria económica",
+        "Plan de estabilidad"
+      ],
+      "correcta": 0,
+      "explicacion": "El arqueo es la comprobación de las existencias de efectivo en la caja de la entidad."
+    },
+    {
+      "id": 40,
+      "tema": 11,
+      "enunciado": "Derecho de los ciudadanos a saber qué datos suyos tiene la administración y para qué los usa:",
+      "opciones": [
+        "Derecho de supresión",
+        "Derecho de acceso",
+        "Derecho de rectificación",
+        "Derecho de portabilidad"
+      ],
+      "correcta": 1,
+      "explicacion": "Es el derecho de acceso regulado en la normativa de protección de datos."
+    }
+  ]
+}
+
+{
+  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
+  "preguntas": [
+    {
+      "id": 41,
+      "tema": 5,
+      "enunciado": "Según la Ley 39/2015, ¿cuál es el plazo para subsanar una solicitud que no reúne los requisitos exigidos?",
+      "opciones": [
+        "5 días",
+        "10 días",
+        "15 días",
+        "1 mes"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 68 establece un plazo de diez días para que el interesado subsane la falta o acompañe los documentos preceptivos."
+    },
+    {
+      "id": 42,
+      "tema": 7,
+      "enunciado": "¿Qué plazo tiene la Administración para resolver un recurso de alzada?",
+      "opciones": [
+        "1 mes",
+        "2 meses",
+        "3 meses",
+        "6 meses"
+      ],
+      "correcta": 2,
+      "explicacion": "El plazo máximo para dictar y notificar la resolución del recurso de alzada será de tres meses."
+    },
+    {
+      "id": 43,
+      "tema": 8,
+      "enunciado": "Los funcionarios que se encuentren en la situación de servicios especiales:",
+      "opciones": [
+        "Pierden su derecho al cómputo de trienios",
+        "Tienen derecho a la reserva de la plaza y destino que ocupasen",
+        "No pueden promocionar internamente",
+        "Deben solicitar la excedencia forzosa"
+      ],
+      "correcta": 1,
+      "explicacion": "El personal en servicios especiales percibirá las retribuciones del puesto que desempeñe y se le computará el tiempo a efectos de trienios y reserva de plaza."
+    },
+    {
+      "id": 44,
+      "tema": 4,
+      "enunciado": "El Pleno de la Diputación de Alicante puede delegar el ejercicio de sus atribuciones en:",
+      "opciones": [
+        "Cualquier funcionario del Grupo A1",
+        "El Presidente y la Junta de Gobierno",
+        "Exclusivamente en los Ayuntamientos de la provincia",
+        "No puede delegar ninguna de sus funciones"
+      ],
+      "correcta": 1,
+      "explicacion": "La Ley Reguladora de las Bases del Régimen Local permite la delegación de ciertas competencias del Pleno en el Presidente y la Junta de Gobierno."
+    },
+    {
+      "id": 45,
+      "tema": 6,
+      "enunciado": "Un acto administrativo dictado por un órgano manifiestamente incompetente por razón de la materia es:",
+      "opciones": [
+        "Anulable",
+        "Nulo de pleno derecho",
+        "Válido pero impugnable",
+        "Irregular"
+      ],
+      "correcta": 1,
+      "explicacion": "La incompetencia manifiesta por razón de la materia o del territorio es causa de nulidad de pleno derecho (Art. 47.1 Ley 39/2015)."
+    },
+    {
+      "id": 46,
+      "tema": 10,
+      "enunciado": "La ejecución del presupuesto de gastos en las Entidades Locales pasa por las siguientes fases (en orden):",
+      "opciones": [
+        "Ordenación, Pago, Autorización y Disposición",
+        "Autorización, Disposición, Reconocimiento de la obligación y Ordenación del pago",
+        "Pago, Reconocimiento, Disposición y Autorización",
+        "Autorización, Pago y Liquidación"
+      ],
+      "correcta": 1,
+      "explicacion": "El orden legal es: Autorización (A), Disposición (D), Reconocimiento de la obligación (O) y Ordenación del pago (P)."
+    },
+    {
+      "id": 47,
+      "tema": 2,
+      "enunciado": "¿A quién corresponde la propuesta de nombramiento del Presidente del Gobierno tras las elecciones?",
+      "opciones": [
+        "Al Presidente del Congreso",
+        "Al Rey",
+        "Al Tribunal Supremo",
+        "A la Junta Electoral Central"
+      ],
+      "correcta": 1,
+      "explicacion": "Según el art. 99 de la CE, el Rey, previa consulta con los representantes de los grupos políticos, propone un candidato a la Presidencia del Gobierno."
+    },
+    {
+      "id": 48,
+      "tema": 11,
+      "enunciado": "Según la Ley de Transparencia, las solicitudes de acceso a la información deben resolverse en un plazo máximo de:",
+      "opciones": [
+        "10 días hábiles",
+        "15 días naturales",
+        "Un mes",
+        "Tres meses"
+      ],
+      "correcta": 2,
+      "explicacion": "La resolución deberá notificarse al solicitante en el plazo máximo de un mes desde la recepción de la solicitud."
+    },
+    {
+      "id": 49,
+      "tema": 12,
+      "enunciado": "En Microsoft Word, ¿cuál es la extensión de archivo por defecto desde la versión 2007?",
+      "opciones": [
+        ".doc",
+        ".txt",
+        ".docx",
+        ".pdf"
+      ],
+      "correcta": 2,
+      "explicacion": "La extensión .docx es el formato estándar basado en XML introducido en Word 2007."
+    },
+    {
+      "id": 50,
+      "tema": 9,
+      "enunciado": "¿Cuál es la duración máxima improrrogable del período de prueba en el personal laboral según el TREBEP?",
+      "opciones": [
+        "Lo que determine el convenio colectivo",
+        "6 meses para técnicos y 2 meses para el resto",
+        "Un año en todo caso",
+        "El TREBEP no regula el periodo de prueba del personal laboral"
+      ],
+      "correcta": 0,
+      "explicacion": "Se estará a lo que se establezca en los convenios colectivos o, en su defecto, en la normativa laboral vigente."
+    },
+    {
+      "id": 51,
+      "tema": 1,
+      "enunciado": "El Defensor del Pueblo es designado por:",
+      "opciones": [
+        "El Gobierno",
+        "El Rey",
+        "Las Cortes Generales",
+        "El Consejo General del Poder Judicial"
+      ],
+      "correcta": 2,
+      "explicacion": "Es el alto comisionado de las Cortes Generales para la defensa de los derechos del Título I."
+    },
+    {
+      "id": 52,
+      "tema": 5,
+      "enunciado": "En el procedimiento administrativo, los plazos fijados por días se entienden que son hábiles siempre que:",
+      "opciones": [
+        "Sean naturales por defecto",
+        "No se diga otra cosa en la ley o convocatoria",
+        "Así lo solicite el interesado",
+        "Solo afecten a funcionarios"
+      ],
+      "correcta": 1,
+      "explicacion": "Salvo que por Ley o en el Derecho de la UE se disponga otro cómputo, los días se entienden hábiles (excluyendo sábados, domingos y festivos)."
+    },
+    {
+      "id": 53,
+      "tema": 3,
+      "enunciado": "¿Qué institución de la Generalitat Valenciana ejerce el control externo económico y presupuestario?",
+      "opciones": [
+        "El Síndic de Greuges",
+        "La Sindicatura de Comptes",
+        "El Consell Valencià de Cultura",
+        "La Abogacía de la Generalitat"
+      ],
+      "correcta": 1,
+      "explicacion": "La Sindicatura de Comptes es el órgano encargado de fiscalizar la gestión económica del sector público valenciano."
+    },
+    {
+      "id": 54,
+      "tema": 4,
+      "enunciado": "¿Cuántos Diputados componen el Pleno de la Diputación de Alicante (basado en su población actual)?",
+      "opciones": [
+        "25 Diputados",
+        "27 Diputados",
+        "31 Diputados",
+        "35 Diputados"
+      ],
+      "correcta": 2,
+      "explicacion": "Por el tramo de población de la provincia de Alicante, el número legal de diputados es 31."
+    },
+    {
+      "id": 55,
+      "tema": 8,
+      "enunciado": "¿Qué falta se considera el abandono del servicio por parte de un funcionario?",
+      "opciones": [
+        "Falta leve",
+        "Falta grave",
+        "Falta muy grave",
+        "No es falta si se justifica después"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 95 del TREBEP tipifica el abandono del servicio como una falta muy grave."
+    },
+    {
+      "id": 56,
+      "tema": 10,
+      "enunciado": "¿Qué principio presupuestario obliga a que todos los ingresos financien todos los gastos sin afectación alguna?",
+      "opciones": [
+        "Principio de Especialidad",
+        "Principio de Universalidad",
+        "Principio de Unidad de Caja",
+        "Principio de No Afectación"
+      ],
+      "correcta": 3,
+      "explicacion": "Es el principio de unidad de ingresos o no afectación; los recursos se destinan a satisfacer el conjunto de obligaciones."
+    },
+    {
+      "id": 57,
+      "tema": 12,
+      "enunciado": "Para seleccionar todo el texto de un documento en Microsoft Word se utiliza:",
+      "opciones": [
+        "Ctrl + T",
+        "Ctrl + E",
+        "Ctrl + A",
+        "Alt + S"
+      ],
+      "correcta": 1,
+      "explicacion": "En la versión en castellano de Word, Ctrl + E es el atajo para 'Seleccionar todo'."
+    },
+    {
+      "id": 58,
+      "tema": 11,
+      "enunciado": "El derecho de 'Rectificación' en protección de datos permite:",
+      "opciones": [
+        "Eliminar los datos de la base",
+        "Que se modifiquen los datos inexactos o incompletos",
+        "Impedir que se usen los datos para publicidad",
+        "Recibir una copia de los datos en formato Excel"
+      ],
+      "correcta": 1,
+      "explicacion": "El derecho de rectificación faculta al interesado a obtener la modificación de datos que resulten inexactos."
+    },
+    {
+      "id": 59,
+      "tema": 6,
+      "enunciado": "¿Cuál de las siguientes es una causa de interrupción del plazo máximo para resolver?",
+      "opciones": [
+        "Las vacaciones del instructor",
+        "La petición de un informe preceptivo y determinante",
+        "El cambio de gobierno local",
+        "La huelga de transportes"
+      ],
+      "correcta": 1,
+      "explicacion": "La petición de informes preceptivos puede suspender el plazo por el tiempo que medie entre la petición y la recepción del informe."
+    },
+    {
+      "id": 60,
+      "tema": 9,
+      "enunciado": "La sanción de separación del servicio solo puede imponerse por:",
+      "opciones": [
+        "Faltas leves",
+        "Faltas graves",
+        "Faltas muy graves",
+        "Cualquier falta si hay reincidencia"
+      ],
+      "correcta": 2,
+      "explicacion": "La separación del servicio es la sanción más grave y solo es aplicable a las faltas muy graves."
+    }
+  ]
+}
+
+{
+  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
+  "preguntas": [
+    {
+      "id": 61,
+      "tema": 5,
+      "enunciado": "¿Qué tipo de días se consideran inhábiles a efectos de cómputo de plazos en el procedimiento administrativo general?",
+      "opciones": [
+        "Sábados, domingos y los declarados festivos",
+        "Solo domingos y festivos nacionales",
+        "Sábados y domingos solamente",
+        "Los que determine el Alcalde o Presidente de la Diputación"
+      ],
+      "correcta": 0,
+      "explicacion": "La Ley 39/2015 introdujo los sábados como días inhábiles, junto a domingos y festivos (Art. 30)."
+    },
+    {
+      "id": 62,
+      "tema": 4,
+      "enunciado": "La Junta de Gobierno en las Diputaciones es obligatoria en:",
+      "opciones": [
+        "Solo en aquellas de más de 500.000 habitantes",
+        "En todas las Diputaciones",
+        "Solo si lo decide el Pleno por mayoría absoluta",
+        "En las que tengan más de 10 diputados"
+      ],
+      "correcta": 1,
+      "explicacion": "La existencia de la Junta de Gobierno es obligatoria en todas las Diputaciones Provinciales según la LRBRL."
+    },
+    {
+      "id": 63,
+      "tema": 7,
+      "enunciado": "¿Contra qué actos administrativos cabe interponer el recurso extraordinario de revisión?",
+      "opciones": [
+        "Contra actos de trámite no cualificados",
+        "Contra actos firmes en vía administrativa",
+        "Contra cualquier resolución de la Diputación",
+        "Solo contra actos que agoten la vía judicial"
+      ],
+      "correcta": 1,
+      "explicacion": "El recurso extraordinario de revisión se interpone contra actos firmes cuando concurra alguna de las causas del art. 125 de la Ley 39/2015."
+    },
+    {
+      "id": 64,
+      "tema": 8,
+      "enunciado": "¿Cuál es la duración máxima de la jornada de trabajo en el Sector Público según el TREBEP?",
+      "opciones": [
+        "35 horas semanales",
+        "37 horas y media semanales de promedio en cómputo anual",
+        "40 horas semanales",
+        "No se establece un máximo, depende del convenio"
+      ],
+      "correcta": 1,
+      "explicacion": "La jornada general es de 37,5 horas semanales, sin perjuicio de las jornadas especiales o reducciones legales."
+    },
+    {
+      "id": 65,
+      "tema": 10,
+      "enunciado": "En la gestión presupuestaria, ¿qué es un 'Crédito Extraordinario'?",
+      "opciones": [
+        "Un préstamo del Banco de España",
+        "Un gasto que no puede demorarse y para el cual no existe crédito en el presupuesto",
+        "Un aumento de sueldo para los funcionarios",
+        "El sobrante de dinero al final del año"
+      ],
+      "correcta": 1,
+      "explicacion": "Se utiliza cuando surge un gasto que no puede esperar al ejercicio siguiente y no hay ninguna partida que lo cubra."
+    },
+    {
+      "id": 66,
+      "tema": 1,
+      "enunciado": "¿Qué mayoría se requiere en el Congreso para la aprobación de una Ley Orgánica?",
+      "opciones": [
+        "Mayoría simple de los presentes",
+        "Mayoría absoluta de los miembros del Congreso",
+        "Tres quintos de la Cámara",
+        "Unanimidad"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 81.2 de la CE exige la mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto."
+    },
+    {
+      "id": 67,
+      "tema": 6,
+      "enunciado": "La 'Desviación de Poder' es causa de:",
+      "opciones": [
+        "Nulidad de pleno derecho",
+        "Anulabilidad",
+        "Irregularidad no invalidante",
+        "Convalidación obligatoria"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 48.1 de la Ley 39/2015 establece que son anulables los actos que incurran en cualquier infracción del ordenamiento, incluyendo la desviación de poder."
+    },
+    {
+      "id": 68,
+      "tema": 12,
+      "enunciado": "En Microsoft Word, para insertar un salto de página manual se utiliza la combinación:",
+      "opciones": [
+        "Ctrl + Enter",
+        "Alt + S",
+        "Ctrl + Shift + P",
+        "Shift + Enter"
+      ],
+      "correcta": 0,
+      "explicacion": "La combinación rápida para forzar un salto de página es Control + Enter."
+    },
+    {
+      "id": 69,
+      "tema": 5,
+      "enunciado": "El interesado puede desistir de su solicitud en un procedimiento:",
+      "opciones": [
+        "En cualquier momento",
+        "Solo antes de la fase de instrucción",
+        "Solo si la Administración lo permite expresamente",
+        "Nunca, una vez iniciado el trámite"
+      ],
+      "correcta": 0,
+      "explicacion": "El desistimiento es una forma de terminación del procedimiento a voluntad del interesado (Art. 93 y 94 Ley 39/2015)."
+    },
+    {
+      "id": 70,
+      "tema": 9,
+      "enunciado": "¿Cuál es el plazo de prescripción de las faltas muy graves de los funcionarios?",
+      "opciones": [
+        "6 meses",
+        "1 año",
+        "2 años",
+        "3 años"
+      ],
+      "correcta": 3,
+      "explicacion": "Según el TREBEP, las faltas muy graves prescriben a los 3 años, las graves a los 2 años y las leves a los 6 meses."
+    },
+    {
+      "id": 71,
+      "tema": 3,
+      "enunciado": "Según el Estatuto de la Comunidad Valenciana, ¿quién nombra a los Consellers?",
+      "opciones": [
+        "Las Corts",
+        "El Presidente de la Generalitat",
+        "El Rey",
+        "El Gobierno de España"
+      ],
+      "correcta": 1,
+      "explicacion": "Es una facultad discrecional del Presidente de la Generalitat nombrar y separar a los miembros del Consell."
+    },
+    {
+      "id": 72,
+      "tema": 11,
+      "enunciado": "El principio de 'integridad y confidencialidad' en protección de datos implica:",
+      "opciones": [
+        "Que los datos deben ser públicos",
+        "Garantizar la seguridad de los datos contra el tratamiento no autorizado o pérdida",
+        "Que los datos deben borrarse cada mes",
+        "Que solo el interesado puede leer sus datos"
+      ],
+      "correcta": 1,
+      "explicacion": "Exige medidas técnicas y organizativas para evitar accesos no permitidos o destrucción accidental."
+    },
+    {
+      "id": 73,
+      "tema": 4,
+      "enunciado": "¿A quién corresponde la representación legal de la Diputación Provincial?",
+      "opciones": [
+        "Al Secretario General",
+        "Al Pleno",
+        "Al Presidente",
+        "Al Interventor"
+      ],
+      "correcta": 2,
+      "explicacion": "El Presidente representa a la Diputación y dirige el gobierno y la administración provincial."
+    },
+    {
+      "id": 74,
+      "tema": 10,
+      "enunciado": "Las ordenanzas fiscales de las Entidades Locales entran en vigor:",
+      "opciones": [
+        "Al día siguiente de su aprobación por el Pleno",
+        "Cuando lo decida el Alcalde/Presidente",
+        "Tras su publicación íntegra en el Boletín Oficial de la Provincia",
+        "A los 20 días de su publicación en el BOE"
+      ],
+      "correcta": 2,
+      "explicacion": "La eficacia de las normas locales depende de su publicación oficial en el BOP correspondiente."
+    },
+    {
+      "id": 75,
+      "tema": 2,
+      "enunciado": "¿Qué órgano es el intérprete supremo de la Constitución Española?",
+      "opciones": [
+        "El Tribunal Supremo",
+        "El Tribunal Constitucional",
+        "El Consejo de Estado",
+        "El Rey"
+      ],
+      "correcta": 1,
+      "explicacion": "El Tribunal Constitucional es el órgano encargado de velar por la constitucionalidad de las leyes."
+    },
+    {
+      "id": 76,
+      "tema": 12,
+      "enunciado": "En la gestión de correos electrónicos, ¿qué es el protocolo 'SMTP'?",
+      "opciones": [
+        "Protocolo para recibir correos",
+        "Protocolo para enviar correos",
+        "Un sistema de cifrado de contraseñas",
+        "Un tipo de virus informático"
+      ],
+      "correcta": 1,
+      "explicacion": "Simple Mail Transfer Protocol es el estándar para el envío (salida) de correos electrónicos."
+    },
+    {
+      "id": 77,
+      "tema": 8,
+      "enunciado": "La carrera horizontal del funcionario consiste en:",
+      "opciones": [
+        "El ascenso de un cuerpo de un subgrupo a otro superior",
+        "El cambio de una administración a otra",
+        "El reconocimiento del progreso sin necesidad de cambiar de puesto de trabajo",
+        "La obtención de un puesto de jefatura por libre designación"
+      ],
+      "correcta": 2,
+      "explicacion": "La carrera horizontal valora la trayectoria, conocimientos y evaluación del desempeño sin obligar a cambiar de puesto."
+    },
+    {
+      "id": 78,
+      "tema": 5,
+      "enunciado": "¿Es obligatoria la motivación de los actos que limiten derechos subjetivos o intereses legítimos?",
+      "opciones": [
+        "No, la administración nunca tiene que motivar",
+        "Sí, siempre",
+        "Solo si lo pide el interesado por escrito",
+        "Solo en los procedimientos sancionadores"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 35 de la Ley 39/2015 exige la motivación de los actos que limiten derechos o impongan obligaciones."
+    },
+    {
+      "id": 79,
+      "tema": 11,
+      "enunciado": "¿Cuál es la autoridad de control estatal en España para la protección de datos?",
+      "opciones": [
+        "El Ministerio del Interior",
+        "La Agencia Española de Protección de Datos (AEPD)",
+        "El Tribunal Cuentas",
+        "La Comisión Nacional del Mercado de Valores"
+      ],
+      "correcta": 1,
+      "explicacion": "La AEPD es el ente independiente que vela por el cumplimiento de la normativa de privacidad."
+    },
+    {
+      "id": 80,
+      "tema": 4,
+      "enunciado": "¿Quién ejerce las funciones de fe pública y asesoramiento legal preceptivo en la Diputación?",
+      "opciones": [
+        "El Presidente",
+        "El Secretario General",
+        "El Interventor",
+        "El Tesorero"
+      ],
+      "correcta": 1,
+      "explicacion": "Son funciones reservadas a funcionarios de administración local con habilitación de carácter nacional (Secretaría)."
+    }
+  ]
+}
+{
+  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
+  "preguntas": [
+    {
+      "id": 81,
+      "tema": 3,
+      "enunciado": "¿Cómo se denomina al órgano consultivo supremo del Consell en materia jurídica según el Estatuto de Autonomía?",
+      "opciones": [
+        "Consejo de Estado",
+        "Consell Jurídic Consultiu",
+        "Tribunal Superior de Justicia",
+        "Abogacía de la Generalitat"
+      ],
+      "correcta": 1,
+      "explicacion": "El Consell Jurídic Consultiu es el supremo órgano consultivo de la Generalitat en materia jurídica."
+    },
+    {
+      "id": 82,
+      "tema": 4,
+      "enunciado": "La moción de censura al Presidente de la Diputación debe ser suscrita, al menos, por:",
+      "opciones": [
+        "La mayoría absoluta del número legal de Diputados",
+        "Un tercio de los Diputados",
+        "Dos tercios de los Diputados",
+        "La mayoría simple de los presentes"
+      ],
+      "correcta": 0,
+      "explicacion": "Para su presentación se requiere la mayoría absoluta del número legal de miembros de la Corporación."
+    },
+    {
+      "id": 83,
+      "tema": 5,
+      "enunciado": "En el procedimiento administrativo, ¿cuál es el plazo de subsanación si la solicitud no reúne los requisitos?",
+      "opciones": [
+        "5 días",
+        "10 días",
+        "15 días",
+        "20 días"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 68 de la Ley 39/2015 establece un plazo de 10 días, ampliables en 5 si la dificultad lo requiere."
+    },
+    {
+      "id": 84,
+      "tema": 6,
+      "enunciado": "Los actos administrativos que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder, son:",
+      "opciones": [
+        "Nulos de pleno derecho",
+        "Anulables",
+        "Inexistentes",
+        "Válidos con sanción"
+      ],
+      "correcta": 1,
+      "explicacion": "Es la definición general de anulabilidad recogida en el artículo 48.1 de la Ley 39/2015."
+    },
+    {
+      "id": 85,
+      "tema": 8,
+      "enunciado": "¿Qué derecho de los funcionarios permite la progresión en el sistema de niveles sin cambiar de puesto de trabajo?",
+      "opciones": [
+        "Carrera vertical",
+        "Carrera horizontal",
+        "Promoción interna",
+        "Libre designación"
+      ],
+      "correcta": 1,
+      "explicacion": "La carrera horizontal consiste en la progresión de grado, categoría o escalón sin necesidad de cambiar de puesto."
+    },
+    {
+      "id": 86,
+      "tema": 10,
+      "enunciado": "¿Cómo se denomina la operación por la que se reconoce una deuda a favor de un tercero por una obra o servicio realizado?",
+      "opciones": [
+        "Autorización de gasto",
+        "Disposición de gasto",
+        "Reconocimiento de la obligación",
+        "Ordenación del pago"
+      ],
+      "correcta": 2,
+      "explicacion": "Es el acto mediante el cual la Administración reconoce que debe una cantidad tras verificar la realización de la prestación."
+    },
+    {
+      "id": 87,
+      "tema": 12,
+      "enunciado": "En Microsoft Word, ¿qué función permite repetir un encabezado en todas las páginas automáticamente?",
+      "opciones": [
+        "Marcadores",
+        "Secciones",
+        "Encabezado y pie de página",
+        "Macros de repetición"
+      ],
+      "correcta": 2,
+      "explicacion": "Las áreas de encabezado y pie de página están diseñadas para repetir información en todo el documento."
+    },
+    {
+      "id": 88,
+      "tema": 11,
+      "enunciado": "El derecho de 'Oposición' en protección de datos permite al interesado:",
+      "opciones": [
+        "Borrar sus datos",
+        "Que no se lleve a cabo el tratamiento de sus datos personales o cese en el mismo",
+        "Corregir errores",
+        "Saber quién es el responsable"
+      ],
+      "correcta": 1,
+      "explicacion": "Es el derecho a solicitar que no se procesen sus datos por motivos relacionados con su situación personal."
+    },
+    {
+      "id": 89,
+      "tema": 2,
+      "enunciado": "El Defensor del Pueblo es elegido por las Cortes Generales para un periodo de:",
+      "opciones": [
+        "4 años",
+        "5 años",
+        "6 años",
+        "Legislatura completa"
+      ],
+      "correcta": 1,
+      "explicacion": "Según su Ley Orgánica, el mandato del Defensor del Pueblo es de cinco años."
+    },
+    {
+      "id": 90,
+      "tema": 5,
+      "enunciado": "¿Cuándo se produce la caducidad en un procedimiento iniciado a solicitud del interesado?",
+      "opciones": [
+        "Cuando el interesado fallece",
+        "Cuando se paraliza por causa imputable al interesado por más de 3 meses",
+        "Cuando la Administración no contesta en 10 días",
+        "Cuando el funcionario se va de vacaciones"
+      ],
+      "correcta": 1,
+      "explicacion": "Si el procedimiento se paraliza por culpa del interesado, la Administración le advertirá que pasados 3 meses se producirá la caducidad."
+    },
+    {
+      "id": 91,
+      "tema": 4,
+      "enunciado": "El número de Diputados de la Diputación de Alicante es de:",
+      "opciones": [
+        "27",
+        "31",
+        "33",
+        "35"
+      ],
+      "correcta": 1,
+      "explicacion": "De acuerdo con la LOREG, a las provincias de entre 1.000.001 y 2.000.000 de habitantes les corresponden 31 diputados."
+    },
+    {
+      "id": 92,
+      "tema": 7,
+      "enunciado": "¿Qué plazo hay para interponer un recurso de reposición contra un acto administrativo?",
+      "opciones": [
+        "15 días",
+        "1 mes",
+        "2 meses",
+        "3 meses"
+      ],
+      "correcta": 1,
+      "explicacion": "El plazo para interponer el recurso de reposición, si el acto es expreso, es de un mes."
+    },
+    {
+      "id": 93,
+      "tema": 10,
+      "enunciado": "Los recursos de las Haciendas Locales procedentes de los tributos propios se clasifican en:",
+      "opciones": [
+        "Tasas e Impuestos únicamente",
+        "Impuestos, Tasas y Contribuciones Especiales",
+        "Precios públicos y multas",
+        "Donaciones y legados"
+      ],
+      "correcta": 1,
+      "explicacion": "Es la clasificación clásica de los ingresos tributarios locales según la LHL."
+    },
+    {
+      "id": 94,
+      "tema": 12,
+      "enunciado": "En Word, ¿para qué sirve la combinación de teclas CTRL + Z?",
+      "opciones": [
+        "Cerrar el programa",
+        "Deshacer la última acción",
+        "Cortar el texto",
+        "Imprimir"
+      ],
+      "correcta": 1,
+      "explicacion": "Es el comando estándar para revertir el último cambio realizado."
+    },
+    {
+      "id": 95,
+      "tema": 8,
+      "enunciado": "La excedencia por cuidado de familiares tiene una duración máxima de:",
+      "opciones": [
+        "1 año",
+        "2 años",
+        "3 años",
+        "5 años"
+      ],
+      "correcta": 2,
+      "explicacion": "Según el TREBEP, los funcionarios tienen derecho a un periodo no superior a 3 años para el cuidado de familiares hasta 2º grado."
+    },
+    {
+      "id": 96,
+      "tema": 1,
+      "enunciado": "¿Quién ostenta la Jefatura del Estado según la Constitución Española?",
+      "opciones": [
+        "El Presidente del Gobierno",
+        "El Rey",
+        "El Presidente del Congreso",
+        "El Tribunal Supremo"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 56 establece que el Rey es el Jefe del Estado, símbolo de su unidad y permanencia."
+    },
+    {
+      "id": 97,
+      "tema": 9,
+      "enunciado": "¿Qué órgano es competente para imponer la sanción de separación del servicio?",
+      "opciones": [
+        "El Jefe de Servicio",
+        "El Pleno de la Corporación",
+        "El Ministro o el órgano competente de la Comunidad Autónoma o Entidad Local",
+        "El Tribunal Supremo"
+      ],
+      "correcta": 2,
+      "explicacion": "Dada su gravedad, esta sanción está reservada a los órganos superiores de gobierno."
+    },
+    {
+      "id": 98,
+      "tema": 11,
+      "enunciado": "¿Qué Ley regula el derecho de acceso a la información pública en el ámbito estatal?",
+      "opciones": [
+        "Ley 39/2015",
+        "Ley 19/2013",
+        "Ley 40/2015",
+        "Ley Orgánica 3/2018"
+      ],
+      "correcta": 1,
+      "explicacion": "La Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno."
+    },
+    {
+      "id": 99,
+      "tema": 5,
+      "enunciado": "Las notificaciones electrónicas se entenderán practicadas en el momento en que:",
+      "opciones": [
+        "Se envían por el servidor",
+        "Se produzca el acceso a su contenido",
+        "Pasan 24 horas desde el envío",
+        "El funcionario confirma la lectura"
+      ],
+      "correcta": 1,
+      "explicacion": "Según el artículo 43 de la Ley 39/2015, se consideran practicadas al acceder al contenido en la sede electrónica."
+    },
+    {
+      "id": 100,
+      "tema": 3,
+      "enunciado": "El Síndic de Greuges de la Comunitat Valenciana es comisionado de:",
+      "opciones": [
+        "El Consell",
+        "Las Corts",
+        "El Presidente de la Generalitat",
+        "El Tribunal Superior de Justicia"
+      ],
+      "correcta": 1,
+      "explicacion": "Es el alto comisionado de las Corts para la defensa de los derechos y libertades del Título I de la Constitución."
+    }
+  ]
+}
+
+{
+  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
+  "preguntas": [
+    {
+      "id": 101,
+      "tema": 6,
+      "enunciado": "Según la Ley 40/2015, ¿qué principio supone que las Administraciones Públicas deben actuar con neutralidad e imparcialidad?",
+      "opciones": [
+        "Principio de transparencia",
+        "Principio de objetividad",
+        "Principio de eficacia",
+        "Principio de proporcionalidad"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 3 de la Ley 40/2015 establece que las Administraciones deben servir con objetividad a los intereses generales."
+    },
+    {
+      "id": 102,
+      "tema": 4,
+      "enunciado": "¿Quién preside la Junta de Gobierno de la Diputación Provincial de Alicante?",
+      "opciones": [
+        "El Diputado de mayor edad",
+        "El Secretario General",
+        "El Presidente de la Diputación",
+        "Un Vicepresidente elegido por el Pleno"
+      ],
+      "correcta": 2,
+      "explicacion": "La presidencia de la Junta de Gobierno corresponde legalmente al Presidente de la Corporación."
+    },
+    {
+      "id": 103,
+      "tema": 5,
+      "enunciado": "En el procedimiento administrativo, si el último día de un plazo es inhábil:",
+      "opciones": [
+        "Se entiende prorrogado al primer día hábil siguiente",
+        "Se entiende que el plazo terminó el día anterior",
+        "El interesado pierde su derecho",
+        "Se debe pedir una prórroga extraordinaria"
+      ],
+      "correcta": 0,
+      "explicacion": "Según el art. 30.5 de la Ley 39/2015, si el último día es inhábil, el plazo se prorroga al siguiente día hábil."
+    },
+    {
+      "id": 104,
+      "tema": 10,
+      "enunciado": "¿Qué documento une el presupuesto de la entidad con el de sus organismos autónomos y sociedades mercantiles dependientes?",
+      "opciones": [
+        "Presupuesto Extraordinario",
+        "Presupuesto General Consolidado",
+        "Memoria de Alcaldía",
+        "Anexo de Inversiones"
+      ],
+      "correcta": 1,
+      "explicacion": "El Presupuesto General consolidado ofrece una visión global de todo el grupo público local."
+    },
+    {
+      "id": 105,
+      "tema": 8,
+      "enunciado": "¿Cuál de estas situaciones NO es una causa de pérdida de la condición de funcionario de carrera?",
+      "opciones": [
+        "La renuncia a la condición de funcionario",
+        "La jubilación total del funcionario",
+        "La excedencia voluntaria por interés particular",
+        "La pena principal de inhabilitación absoluta"
+      ],
+      "correcta": 2,
+      "explicacion": "La excedencia es una situación administrativa, pero el funcionario mantiene su condición (no la pierde)."
+    },
+    {
+      "id": 106,
+      "tema": 12,
+      "enunciado": "En Microsoft Word, ¿cómo se denomina al texto que aparece en la parte inferior de todas las páginas de un documento?",
+      "opciones": [
+        "Nota al pie",
+        "Pie de página",
+        "Subtítulo",
+        "Referencia cruzada"
+      ],
+      "correcta": 1,
+      "explicacion": "El pie de página es el área reservada para información repetitiva en la base de la hoja."
+    },
+    {
+      "id": 107,
+      "tema": 11,
+      "enunciado": "El principio de 'limitación del plazo de conservación' del RGPD dicta que los datos deben ser:",
+      "opciones": [
+        "Borrados inmediatamente tras su lectura",
+        "Mantenidos durante un máximo de 10 años en todo caso",
+        "Mantenidos de forma que permitan la identificación solo el tiempo necesario para los fines del tratamiento",
+        "Públicos para que todos puedan ver cuándo se borran"
+      ],
+      "correcta": 2,
+      "explicacion": "Los datos no deben guardarse más tiempo del que sea estrictamente necesario para la finalidad que motivó su recogida."
+    },
+    {
+      "id": 108,
+      "tema": 2,
+      "enunciado": "Las leyes aprobadas por las Cortes Generales son sancionadas por el Rey en el plazo de:",
+      "opciones": [
+        "10 días",
+        "15 días",
+        "30 días",
+        "Un mes"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 91 de la Constitución establece que el Rey sancionará las leyes en el plazo de quince días."
+    },
+    {
+      "id": 109,
+      "tema": 10,
+      "enunciado": "El estado de gastos del presupuesto se estructura en tres niveles, ¿cuál de ellos indica 'en qué' se gasta?",
+      "opciones": [
+        "Clasificación Orgánica",
+        "Clasificación Económica",
+        "Clasificación por Programas",
+        "Clasificación Territorial"
+      ],
+      "correcta": 1,
+      "explicacion": "La clasificación económica (capítulos, artículos, conceptos) detalla la naturaleza del gasto (personal, bienes, etc.)."
+    },
+    {
+      "id": 110,
+      "tema": 7,
+      "enunciado": "¿Qué órgano resuelve los recursos de reposición?",
+      "opciones": [
+        "El superior jerárquico",
+        "El mismo órgano que dictó el acto",
+        "El Tribunal Contencioso-Administrativo",
+        "El Consejo de Estado"
+      ],
+      "correcta": 1,
+      "explicacion": "Al ser un recurso potestativo de carácter 'horizontal', lo resuelve el mismo órgano que emitió la resolución."
+    },
+    {
+      "id": 111,
+      "tema": 5,
+      "enunciado": "En el procedimiento administrativo, la notificación de un acto debe cursarse en el plazo de:",
+      "opciones": [
+        "5 días a partir de la fecha del acto",
+        "10 días a partir de la fecha del acto",
+        "15 días a partir de la fecha del acto",
+        "3 días a partir de la fecha del acto"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 40.2 de la Ley 39/2015 obliga a cursar la notificación en el plazo de 10 días tras dictarse el acto."
+    },
+    {
+      "id": 112,
+      "tema": 3,
+      "enunciado": "Según el Estatuto de la Comunidad Valenciana, ¿quién tiene la potestad de disolver las Corts?",
+      "opciones": [
+        "El Rey",
+        "El Presidente de las Corts",
+        "El Presidente de la Generalitat",
+        "El Consell en pleno"
+      ],
+      "correcta": 2,
+      "explicacion": "Es una facultad del Presidente de la Generalitat, previa deliberación del Consell."
+    },
+    {
+      "id": 113,
+      "tema": 4,
+      "enunciado": "¿Cuál es la función primordial de las Comisiones Informativas en la Diputación?",
+      "opciones": [
+        "Dictar resoluciones ejecutivas",
+        "El estudio, informe o consulta de los asuntos que han de ser sometidos al Pleno",
+        "Sustituir al Presidente en casos de ausencia",
+        "Gestionar el presupuesto de cada área"
+      ],
+      "correcta": 1,
+      "explicacion": "Son órganos sin atribuciones resolutorias, cuya misión es preparar las decisiones del Pleno."
+    },
+    {
+      "id": 114,
+      "tema": 12,
+      "enunciado": "Para guardar un documento con un nombre distinto al actual en Word, se debe usar la opción:",
+      "opciones": [
+        "Guardar",
+        "Guardar como",
+        "Exportar",
+        "Publicar"
+      ],
+      "correcta": 1,
+      "explicacion": "Esta opción abre el cuadro de diálogo para definir ubicación, nombre y formato del nuevo archivo."
+    },
+    {
+      "id": 115,
+      "tema": 9,
+      "enunciado": "¿A qué subgrupo de clasificación pertenecen los Auxiliares de Administración General?",
+      "opciones": [
+        "Subgrupo C1",
+        "Subgrupo C2",
+        "Grupo B",
+        "Grupo E (Otras agrupaciones)"
+      ],
+      "correcta": 1,
+      "explicacion": "Según el TREBEP y las bases de la convocatoria, la categoría de Auxiliar corresponde al subgrupo C2."
+    },
+    {
+      "id": 116,
+      "tema": 1,
+      "enunciado": "El Título II de la Constitución Española trata sobre:",
+      "opciones": [
+        "De los Derechos y Deberes Fundamentales",
+        "De la Corona",
+        "De las Cortes Generales",
+        "Del Gobierno y de la Administración"
+      ],
+      "correcta": 1,
+      "explicacion": "El Título II comprende los artículos 56 a 65, referentes a la figura del Rey y la Corona."
+    },
+    {
+      "id": 117,
+      "tema": 10,
+      "enunciado": "La aprobación de los Presupuestos Locales debe realizarse antes de:",
+      "opciones": [
+        "El 1 de octubre del año anterior",
+        "El 31 de diciembre del año anterior",
+        "El 1 de marzo del año en curso",
+        "El 15 de septiembre del año anterior"
+      ],
+      "correcta": 1,
+      "explicacion": "Legalmente deben estar aprobados, publicados y entrar en vigor el 1 de enero, por lo que el proceso debe acabar antes del 31 de diciembre."
+    },
+    {
+      "id": 118,
+      "tema": 11,
+      "enunciado": "¿Qué es un 'Dato de carácter personal' según la normativa vigente?",
+      "opciones": [
+        "Solo el nombre y los apellidos",
+        "Cualquier información sobre una persona física identificada o identificable",
+        "Únicamente los datos bancarios y de salud",
+        "Información relativa a empresas y personas jurídicas"
+      ],
+      "correcta": 1,
+      "explicacion": "La definición es amplia: cualquier dato que permita identificar a una persona física (IP, imagen, huella, etc.)."
+    },
+    {
+      "id": 119,
+      "tema": 6,
+      "enunciado": "El acto administrativo se presume válido y produce efectos desde:",
+      "opciones": [
+        "La fecha en que se dicta, salvo que se disponga otra cosa",
+        "El momento en que lo firma el Secretario",
+        "Los 20 días de su publicación",
+        "Cuando el interesado lo acepta por escrito"
+      ],
+      "correcta": 0,
+      "explicacion": "Es la presunción de legitimidad y ejecutividad del acto administrativo (Art. 39 Ley 39/2015)."
+    },
+    {
+      "id": 120,
+      "tema": 8,
+      "enunciado": "El derecho de los funcionarios a percibir dos pagas extraordinarias al año se denomina:",
+      "opciones": [
+        "Retribuciones básicas",
+        "Retribuciones complementarias",
+        "Trienios",
+        "Indemnizaciones por servicio"
+      ],
+      "correcta": 0,
+      "explicacion": "Las pagas extraordinarias forman parte de las retribuciones básicas junto con el sueldo y los trienios."
+    }
+  ]
+}
+{
+  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
+  "preguntas": [
+    {
+      "id": 121,
+      "tema": 4,
+      "enunciado": "¿Qué órgano de la Diputación tiene atribuidas las competencias que no estén expresamente asignadas a otros órganos?",
+      "opciones": [
+        "El Presidente",
+        "El Pleno",
+        "La Junta de Gobierno",
+        "La Junta de Portavoces"
+      ],
+      "correcta": 1,
+      "explicacion": "El Pleno ostenta las competencias residuales o no atribuidas expresamente a otros órganos por la Ley de Bases de Régimen Local."
+    },
+    {
+      "id": 122,
+      "tema": 10,
+      "enunciado": "¿Cómo se denomina la modificación presupuestaria que consiste en la creación de una partida que no existía en el presupuesto inicial?",
+      "opciones": [
+        "Transferencia de crédito",
+        "Suplemento de crédito",
+        "Crédito extraordinario",
+        "Generación de crédito"
+      ],
+      "correcta": 2,
+      "explicacion": "El crédito extraordinario se aplica cuando se debe realizar un gasto que no puede demorarse y para el cual no existe partida presupuestaria."
+    },
+    {
+      "id": 123,
+      "tema": 5,
+      "enunciado": "En el cómputo de plazos por meses, si en el mes de vencimiento no hubiera día equivalente al inicial del cómputo:",
+      "opciones": [
+        "Se entenderá que el plazo expira el último día del mes",
+        "El plazo se amplía automáticamente 5 días",
+        "El plazo se considera nulo",
+        "Se computa desde el primer día del mes siguiente"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 30.4 de la Ley 39/2015 aclara que si en el mes de vencimiento no hay día equivalente, el plazo expira el último día de dicho mes."
+    },
+    {
+      "id": 124,
+      "tema": 8,
+      "enunciado": "¿Cuál es la sanción máxima que se puede imponer por una falta leve?",
+      "opciones": [
+        "Suspensión de funciones de hasta 15 días",
+        "Apercibimiento",
+        "Traslado forzoso",
+        "Demérito"
+      ],
+      "correcta": 1,
+      "explicacion": "Según el régimen disciplinario, las faltas leves solo pueden sancionarse con apercibimiento."
+    },
+    {
+      "id": 125,
+      "tema": 11,
+      "enunciado": "¿Quién tiene derecho a acceder a la información pública según la Ley 19/2013 de Transparencia?",
+      "opciones": [
+        "Solo los ciudadanos españoles mayores de edad",
+        "Todas las personas, sin necesidad de motivar su solicitud",
+        "Solo quienes acrediten un interés directo y legítimo",
+        "Exclusivamente los funcionarios públicos"
+      ],
+      "correcta": 1,
+      "explicacion": "La ley reconoce el derecho de acceso a la información a todas las personas en condiciones de igualdad, sin que sea necesario motivar la solicitud."
+    },
+    {
+      "id": 126,
+      "tema": 12,
+      "enunciado": "En Microsoft Word, ¿qué pestaña permite modificar los márgenes y la orientación del papel?",
+      "opciones": [
+        "Inicio",
+        "Insertar",
+        "Disposición (o Formato/Diseño de página)",
+        "Referencias"
+      ],
+      "correcta": 2,
+      "explicacion": "La pestaña 'Disposición' contiene las herramientas de configuración de página como márgenes, orientación y tamaño."
+    },
+    {
+      "id": 127,
+      "tema": 6,
+      "enunciado": "¿Cuál de los siguientes es un ejemplo de acto administrativo que agota la vía administrativa en el ámbito local?",
+      "opciones": [
+        "Una resolución de un Jefe de negociado",
+        "Una resolución del Presidente de la Diputación",
+        "Un informe de la Secretaría General",
+        "Una providencia de apremio"
+      ],
+      "correcta": 1,
+      "explicacion": "Las resoluciones del Presidente y los acuerdos del Pleno ponen fin a la vía administrativa en las Entidades Locales."
+    },
+    {
+      "id": 128,
+      "tema": 9,
+      "enunciado": "¿Qué sistema de selección es el preferente para el acceso a la función pública según el TREBEP?",
+      "opciones": [
+        "El concurso-oposición",
+        "La oposición",
+        "El concurso de méritos",
+        "La libre designación"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 61 del TREBEP establece que los sistemas selectivos serán la oposición y el concurso-oposición, siendo la oposición el sistema ordinario."
+    },
+    {
+      "id": 129,
+      "tema": 10,
+      "enunciado": "El remanente de tesorería es un concepto que pertenece a:",
+      "opciones": [
+        "La ejecución del gasto",
+        "La liquidación del presupuesto",
+        "La fase de autorización",
+        "La ordenación de pagos"
+      ],
+      "correcta": 1,
+      "explicacion": "El remanente de tesorería se calcula al cierre del ejercicio, dentro del proceso de liquidación presupuestaria."
+    },
+    {
+      "id": 130,
+      "tema": 2,
+      "enunciado": "El derecho de huelga de los trabajadores se considera en la Constitución un:",
+      "opciones": [
+        "Derecho fundamental",
+        "Principio rector de la política económica",
+        "Deber de los ciudadanos",
+        "Derecho de libertad de asociación"
+      ],
+      "correcta": 0,
+      "explicacion": "Se encuentra en el artículo 28.2 (Sección 1ª del Cap. II del Título I), por lo que es un derecho fundamental de máxima protección."
+    },
+    {
+      "id": 131,
+      "tema": 4,
+      "enunciado": "Los Vicepresidentes de la Diputación sustituyen al Presidente en casos de vacante, ausencia o enfermedad, siguiendo:",
+      "opciones": [
+        "El orden de su nombramiento",
+        "Su antigüedad como diputados",
+        "Su edad, de mayor a menor",
+        "El orden alfabético de sus apellidos"
+      ],
+      "correcta": 0,
+      "explicacion": "La sustitución se realiza por el orden de los nombramientos realizados por el Presidente."
+    },
+    {
+      "id": 132,
+      "tema": 5,
+      "enunciado": "La comparecencia de los ciudadanos ante las oficinas públicas solo será obligatoria:",
+      "opciones": [
+        "Cuando el funcionario lo considere oportuno",
+        "Cuando así lo prevea una norma con rango de Ley",
+        "En cualquier procedimiento sancionador",
+        "Nunca es obligatoria"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 19 de la Ley 39/2015 establece que solo es obligatoria cuando esté previsto en una Ley."
+    },
+    {
+      "id": 133,
+      "tema": 11,
+      "enunciado": "En el RGPD, los datos relativos a la salud, religión u orientación sexual se consideran:",
+      "opciones": [
+        "Datos públicos",
+        "Categorías especiales de datos",
+        "Datos de bajo riesgo",
+        "Datos de acceso libre"
+      ],
+      "correcta": 1,
+      "explicacion": "Son datos que gozan de una protección reforzada debido a su sensibilidad."
+    },
+    {
+      "id": 134,
+      "tema": 12,
+      "enunciado": "Para imprimir solo las páginas 1, 3 y 5 de un documento de Word, ¿qué separador se usa en el cuadro de diálogo?",
+      "opciones": [
+        "El guion (-)",
+        "La coma (,)",
+        "El punto (.)",
+        "La barra (/)"
+      ],
+      "correcta": 1,
+      "explicacion": "La coma se utiliza para páginas salteadas, mientras que el guion se usa para rangos (ej: 1-5)."
+    },
+    {
+      "id": 135,
+      "tema": 7,
+      "enunciado": "Si una Administración no resuelve un recurso de alzada en el plazo de 3 meses, el silencio se entiende:",
+      "opciones": [
+        "Estimatorio en todo caso",
+        "Desestimatorio como regla general",
+        "Nulo de pleno derecho",
+        "Caducado"
+      ],
+      "correcta": 1,
+      "explicacion": "El silencio en vía de recurso es desestimatorio, salvo la excepción del silencio sobre silencio (art. 24 Ley 39/2015)."
+    },
+    {
+      "id": 136,
+      "tema": 1,
+      "enunciado": "¿Qué artículo de la Constitución garantiza el principio de legalidad y la jerarquía normativa?",
+      "opciones": [
+        "Artículo 1",
+        "Artículo 2",
+        "Artículo 9.3",
+        "Artículo 14"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 9.3 establece los principios de legalidad, jerarquía normativa, publicidad de las normas, etc."
+    },
+    {
+      "id": 137,
+      "tema": 10,
+      "enunciado": "¿Cuál de estos ingresos locales es un impuesto indirecto?",
+      "opciones": [
+        "Impuesto sobre Bienes Inmuebles (IBI)",
+        "Impuesto sobre Actividades Económicas (IAE)",
+        "Impuesto sobre Construcciones, Instalaciones y Obras (ICIO)",
+        "Impuesto sobre Vehículos de Tracción Mecánica (IVTM)"
+      ],
+      "correcta": 2,
+      "explicacion": "El ICIO es un impuesto indirecto que grava la realización de cualquier construcción o reforma."
+    },
+    {
+      "id": 138,
+      "tema": 3,
+      "enunciado": "Las leyes de la Generalitat Valenciana son promulgadas, en nombre del Rey, por:",
+      "opciones": [
+        "El Delegado del Gobierno",
+        "El Presidente de la Generalitat",
+        "El Presidente de las Corts",
+        "El Ministro de Justicia"
+      ],
+      "correcta": 1,
+      "explicacion": "El Presidente de la Generalitat promulga las leyes autonómicas en nombre del Rey."
+    },
+    {
+      "id": 139,
+      "tema": 8,
+      "enunciado": "El grado personal de un funcionario se adquiere por el desempeño de uno o más puestos del nivel correspondiente durante:",
+      "opciones": [
+        "Un año continuado",
+        "Dos años continuados o tres con interrupción",
+        "Cinco años en total",
+        "Seis meses desde el nombramiento"
+      ],
+      "correcta": 1,
+      "explicacion": "Es la regla general de consolidación de grado según el Reglamento de Ingreso y Provisión de puestos."
+    },
+    {
+      "id": 140,
+      "tema": 12,
+      "enunciado": "En un cliente de correo electrónico, la carpeta 'Borradores' contiene:",
+      "opciones": [
+        "Mensajes recibidos no leídos",
+        "Mensajes escritos pero no enviados todavía",
+        "Mensajes eliminados recientemente",
+        "Mensajes detectados como publicidad"
+      ],
+      "correcta": 1,
+      "explicacion": "En borradores se guardan los correos en proceso de redacción que aún no han salido del equipo."
+    }
+  ]
+}
+
+{
+  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
+  "preguntas": [
+    {
+      "id": 141,
+      "tema": 4,
+      "enunciado": "¿Qué órgano de la Diputación Provincial de Alicante tiene la competencia para aprobar la plantilla de personal y la relación de puestos de trabajo (RPT)?",
+      "opciones": [
+        "El Presidente",
+        "El Pleno",
+        "La Junta de Gobierno",
+        "El Jefe de Recursos Humanos"
+      ],
+      "correcta": 1,
+      "explicacion": "La aprobación de la plantilla y la RPT es una competencia reservada al Pleno de la Corporación según la LRBRL."
+    },
+    {
+      "id": 142,
+      "tema": 10,
+      "enunciado": "En la liquidación del presupuesto, si los derechos liquidados son superiores a las obligaciones reconocidas, se produce:",
+      "opciones": [
+        "Un déficit presupuestario",
+        "Un superávit presupuestario",
+        "Una quiebra técnica",
+        "Un crédito extraordinario"
+      ],
+      "correcta": 1,
+      "explicacion": "El superávit (o capacidad de financiación) se da cuando los ingresos previstos y realizados superan a los gastos ejecutados."
+    },
+    {
+      "id": 143,
+      "tema": 5,
+      "enunciado": "¿Cuál de los siguientes interesados está OBLIGADO a relacionarse a través de medios electrónicos con las Administraciones Públicas?",
+      "opciones": [
+        "Las personas físicas en cualquier caso",
+        "Las personas jurídicas",
+        "Los menores de edad",
+        "Los ciudadanos mayores de 65 años"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 14.2 de la Ley 39/2015 establece la obligatoriedad de uso de medios electrónicos para las personas jurídicas."
+    },
+    {
+      "id": 144,
+      "tema": 8,
+      "enunciado": "La sanción de 'demérito' consiste en:",
+      "opciones": [
+        "Una multa económica directa",
+        "La pérdida de puntos en el escalafón o la imposibilidad de ascender durante un tiempo",
+        "El despido inmediato",
+        "La reducción de las vacaciones"
+      ],
+      "correcta": 1,
+      "explicacion": "El demérito afecta a la carrera profesional, impidiendo la progresión o penalizando la puntuación en concursos."
+    },
+    {
+      "id": 145,
+      "tema": 11,
+      "enunciado": "El Derecho de Supresión (derecho al olvido) permite:",
+      "opciones": [
+        "Cambiar los apellidos del interesado",
+        "Eliminar los datos personales cuando ya no sean necesarios para los fines que fueron recogidos",
+        "Ocultar los datos a la policía",
+        "No pagar las multas de tráfico"
+      ],
+      "correcta": 1,
+      "explicacion": "Es el derecho a obtener la supresión de los datos personales que conciernen al interesado conforme al RGPD."
+    },
+    {
+      "id": 146,
+      "tema": 12,
+      "enunciado": "En Microsoft Word, para alinear un texto tanto al margen izquierdo como al derecho se utiliza la función:",
+      "opciones": [
+        "Centrar",
+        "Alinear a la derecha",
+        "Justificar",
+        "Sangría francesa"
+      ],
+      "correcta": 2,
+      "explicacion": "La alineación 'Justificada' distribuye el texto uniformemente entre ambos márgenes."
+    },
+    {
+      "id": 147,
+      "tema": 6,
+      "enunciado": "La ejecución forzosa de los actos administrativos por parte de la Administración se basa en el principio de:",
+      "opciones": [
+        "Autotutela ejecutiva",
+        "Buena fe",
+        "Jerarquía",
+        "Solidaridad"
+      ],
+      "correcta": 0,
+      "explicacion": "La Administración puede ejecutar por sí misma sus actos sin necesidad de auxilio judicial previo."
+    },
+    {
+      "id": 148,
+      "tema": 9,
+      "enunciado": "¿Qué sistema de provisión de puestos de trabajo es el carácter ordinario en la Administración?",
+      "opciones": [
+        "Libre designación",
+        "Concurso",
+        "Permuta",
+        "Comisión de servicios"
+      ],
+      "correcta": 1,
+      "explicacion": "El concurso es el sistema normal de provisión de puestos según el TREBEP."
+    },
+    {
+      "id": 149,
+      "tema": 10,
+      "enunciado": "¿Qué impuesto municipal es de exacción obligatoria (todos los Ayuntamientos deben cobrarlo)?",
+      "opciones": [
+        "Impuesto sobre Construcciones, Instalaciones y Obras (ICIO)",
+        "Impuesto sobre el Incremento de Valor de los Terrenos (Plusvalía)",
+        "Impuesto sobre Bienes Inmuebles (IBI)",
+        "Impuesto sobre Gastos Suntuarios"
+      ],
+      "correcta": 2,
+      "explicacion": "El IBI, el IAE y el IVTM son impuestos obligatorios; el ICIO y la Plusvalía son potestativos."
+    },
+    {
+      "id": 150,
+      "tema": 2,
+      "enunciado": "¿Quién preside el Consejo General del Poder Judicial?",
+      "opciones": [
+        "El Ministro de Justicia",
+        "El Rey",
+        "El Presidente del Tribunal Supremo",
+        "El Fiscal General del Estado"
+      ],
+      "correcta": 2,
+      "explicacion": "El Presidente del Tribunal Supremo es también el Presidente del CGPJ (Art. 122.3 CE)."
+    },
+    {
+      "id": 151,
+      "tema": 4,
+      "enunciado": "Las sesiones ordinarias del Pleno de la Diputación deben tener una periodicidad mínima de:",
+      "opciones": [
+        "Una vez a la semana",
+        "Una vez al mes",
+        "Una vez cada dos meses",
+        "Una vez al trimestre"
+      ],
+      "correcta": 1,
+      "explicacion": "En las Diputaciones, las sesiones ordinarias suelen ser mensuales, según determine el propio Pleno o el Reglamento Orgánico."
+    },
+    {
+      "id": 152,
+      "tema": 5,
+      "enunciado": "Un ciudadano que no posee firma electrónica, ¿puede presentar una solicitud presencialmente en el registro?",
+      "opciones": [
+        "No, ya es obligatorio para todos lo electrónico",
+        "Sí, siempre que sea una persona física no obligada",
+        "Solo si tiene una autorización del Alcalde",
+        "Solo en casos de emergencia sanitaria"
+      ],
+      "correcta": 1,
+      "explicacion": "Las personas físicas pueden elegir en todo momento si se comunican por medios electrónicos o papel."
+    },
+    {
+      "id": 153,
+      "tema": 11,
+      "enunciado": "¿Cuál es el plazo máximo para resolver una solicitud de ejercicio de derechos (acceso, rectificación) en protección de datos?",
+      "opciones": [
+        "10 días",
+        "Un mes",
+        "Dos meses",
+        "Tres meses"
+      ],
+      "correcta": 1,
+      "explicacion": "El responsable del tratamiento debe responder en el plazo máximo de un mes, prorrogable otros dos en casos complejos."
+    },
+    {
+      "id": 154,
+      "tema": 12,
+      "enunciado": "En el correo electrónico, ¿qué significa 'Spam'?",
+      "opciones": [
+        "Correo urgente",
+        "Correo electrónico no deseado, habitualmente de tipo publicitario",
+        "Un tipo de archivo adjunto comprimido",
+        "El nombre del servidor de salida"
+      ],
+      "correcta": 1,
+      "explicacion": "Es el término utilizado para el correo basura o masivo no solicitado."
+    },
+    {
+      "id": 155,
+      "tema": 7,
+      "enunciado": "El recurso de reposición se interpone ante actos que:",
+      "opciones": [
+        "No ponen fin a la vía administrativa",
+        "Ponen fin a la vía administrativa",
+        "Son únicamente de trámite",
+        "Han sido dictados por el Rey"
+      ],
+      "correcta": 1,
+      "explicacion": "El recurso de reposición es potestativo para actos que agotan la vía administrativa (Art. 123 Ley 39/2015)."
+    },
+    {
+      "id": 156,
+      "tema": 1,
+      "enunciado": "¿Qué órgano tiene la función de sancionar las Leyes?",
+      "opciones": [
+        "El Congreso",
+        "El Senado",
+        "El Rey",
+        "El Presidente del Gobierno"
+      ],
+      "correcta": 2,
+      "explicacion": "La sanción y promulgación de las leyes es una función constitucional del Rey (Art. 62 CE)."
+    },
+    {
+      "id": 157,
+      "tema": 10,
+      "enunciado": "¿Cómo se denominan los ingresos locales que se pagan por la utilización privativa o aprovechamiento especial del dominio público (ej. terrazas)?",
+      "opciones": [
+        "Impuestos",
+        "Tasas",
+        "Contribuciones especiales",
+        "Precios públicos"
+      ],
+      "correcta": 1,
+      "explicacion": "Las tasas se pagan por el uso privado del dominio público o por servicios prestados en régimen de monopolio."
+    },
+    {
+      "id": 158,
+      "tema": 3,
+      "enunciado": "El valenciano es la lengua propia de la Comunitat Valenciana y tiene carácter oficial junto con el castellano según:",
+      "opciones": [
+        "La Constitución Española",
+        "El Estatuto de Autonomía de la CV",
+        "Una Orden Ministerial",
+        "El Reglamento de la Diputación"
+      ],
+      "correcta": 1,
+      "explicacion": "La cooficialidad se establece en el artículo 6 del Estatuto de Autonomía."
+    },
+    {
+      "id": 159,
+      "tema": 8,
+      "enunciado": "¿Qué situación administrativa corresponde a un funcionario que es elegido Diputado en el Congreso?",
+      "opciones": [
+        "Servicio activo",
+        "Servicios especiales",
+        "Excedencia voluntaria",
+        "Suspensión provisional"
+      ],
+      "correcta": 1,
+      "explicacion": "El desempeño de cargos electivos políticos conlleva el pase a la situación de servicios especiales."
+    },
+    {
+      "id": 160,
+      "tema": 12,
+      "enunciado": "En Word, ¿para qué sirve la 'Regla'?",
+      "opciones": [
+        "Para contar las palabras automáticamente",
+        "Para establecer sangrías y tabulaciones de forma visual",
+        "Para corregir la ortografía",
+        "Para cambiar el color de la fuente"
+      ],
+      "correcta": 1,
+      "explicacion": "La regla permite ajustar márgenes, sangrías y paradas de tabulación arrastrando sus iconos."
+    }
+  ]
+}
+
+{
+  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
+  "preguntas": [
+    {
+      "id": 161,
+      "tema": 7,
+      "enunciado": "¿Qué plazo tiene el interesado para interponer un recurso de alzada si el acto administrativo fuera presunto (silencio)?",
+      "opciones": [
+        "Un mes",
+        "Tres meses",
+        "En cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio",
+        "Diez días"
+      ],
+      "correcta": 2,
+      "explicacion": "Tras la reforma de la Ley 39/2015, el recurso de alzada contra actos presuntos puede interponerse en cualquier momento."
+    },
+    {
+      "id": 162,
+      "tema": 4,
+      "enunciado": "¿Quién es el órgano competente para el ejercicio de las acciones judiciales y administrativas en nombre de la Diputación en caso de urgencia?",
+      "opciones": [
+        "El Pleno",
+        "El Presidente (dando cuenta al Pleno en la primera sesión que celebre)",
+        "El Letrado de la Diputación",
+        "El Secretario General"
+      ],
+      "correcta": 1,
+      "explicacion": "Es una atribución del Presidente por razones de urgencia, con obligación de dar cuenta posterior al órgano colegiado."
+    },
+    {
+      "id": 163,
+      "tema": 10,
+      "enunciado": "La 'Ordenación del Pago' es el acto mediante el cual:",
+      "opciones": [
+        "Se decide gastar un dinero",
+        "Se reconoce que una factura es correcta",
+        "El ordenador de pagos manda expedir la orden de pago contra la tesorería",
+        "Se firma el cheque físicamente"
+      ],
+      "correcta": 2,
+      "explicacion": "Es la fase del proceso de gasto donde se ordena la salida de fondos tras haber reconocido la obligación."
+    },
+    {
+      "id": 164,
+      "tema": 12,
+      "enunciado": "En Microsoft Word, ¿qué es una 'Sangría Francesa'?",
+      "opciones": [
+        "La que desplaza solo la primera línea a la derecha",
+        "La que mantiene la primera línea a la izquierda y desplaza el resto del párrafo a la derecha",
+        "La que pone el texto en cursiva",
+        "La que deja márgenes de 5 cm a cada lado"
+      ],
+      "correcta": 1,
+      "explicacion": "Es muy común en bibliografías: la primera línea sobresale a la izquierda respecto al resto del bloque."
+    },
+    {
+      "id": 165,
+      "tema": 11,
+      "enunciado": "Según la Ley de Transparencia, el 'Buen Gobierno' se aplica a:",
+      "opciones": [
+        "Solo a los funcionarios de carrera",
+        "A los altos cargos de la Administración",
+        "A las empresas privadas que no reciben subvenciones",
+        "Exclusivamente a los ciudadanos"
+      ],
+      "correcta": 1,
+      "explicacion": "Los principios de buen gobierno vinculan a los altos cargos en el ejercicio de sus funciones."
+    },
+    {
+      "id": 166,
+      "tema": 12,
+      "enunciado": "En el correo electrónico, ¿qué función cumple el protocolo 'POP3'?",
+      "opciones": [
+        "Enviar correos al servidor",
+        "Descargar los correos del servidor al equipo local",
+        "Cifrar la firma digital",
+        "Bloquear el correo no deseado"
+      ],
+      "correcta": 1,
+      "explicacion": "Post Office Protocol es para recibir/descargar correos (a diferencia de IMAP, que los sincroniza)."
+    },
+    {
+      "id": 167,
+      "tema": 5,
+      "enunciado": "La Administración podrá extender el plazo máximo para resolver y notificar mediante:",
+      "opciones": [
+        "Una llamada telefónica al interesado",
+        "Una ampliación de plazo, que no podrá ser superior a la mitad del plazo establecido",
+        "Una resolución de la Alcaldía de un año",
+        "No se puede ampliar nunca"
+      ],
+      "correcta": 1,
+      "explicacion": "La ampliación de plazos (Art. 32 Ley 39/2015) permite extenderlos hasta la mitad del tiempo original si las circunstancias lo justifican."
+    },
+    {
+      "id": 168,
+      "tema": 8,
+      "enunciado": "El personal laboral al servicio de las Administraciones Públicas se rige por:",
+      "opciones": [
+        "Exclusivamente el TREBEP",
+        "El Derecho Laboral (Estatuto de los Trabajadores) y lo que les sea de aplicación del TREBEP",
+        "El Derecho Civil",
+        "El Reglamento de Funcionarios de 1986"
+      ],
+      "correcta": 1,
+      "explicacion": "Tienen un régimen híbrido entre la normativa laboral común y las normas específicas del empleo público."
+    },
+    {
+      "id": 169,
+      "tema": 4,
+      "enunciado": "¿Qué mayoría se requiere para aprobar el Reglamento Orgánico de la Diputación de Alicante?",
+      "opciones": [
+        "Mayoría simple",
+        "Mayoría absoluta",
+        "Dos tercios",
+        "Unanimidad"
+      ],
+      "correcta": 1,
+      "explicacion": "La Ley de Bases exige mayoría absoluta del número legal de miembros para la aprobación del Reglamento Orgánico."
+    },
+    {
+      "id": 170,
+      "tema": 10,
+      "enunciado": "En las Haciendas Locales, ¿qué son las 'Contribuciones Especiales'?",
+      "opciones": [
+        "Donaciones voluntarias de los vecinos",
+        "Tributos cuyo hecho imponible es la obtención de un beneficio o aumento de valor de bienes por obras públicas",
+        "Multas por exceso de velocidad",
+        "Impuestos sobre el lujo"
+      ],
+      "correcta": 1,
+      "explicacion": "Se pagan cuando la administración hace una obra (ej. asfaltar una calle) que beneficia directamente a unos propietarios."
+    },
+    {
+      "id": 171,
+      "tema": 12,
+      "enunciado": "En Word, para insertar una tabla donde el texto se ajuste automáticamente al contenido, usamos:",
+      "opciones": [
+        "Autoformato",
+        "Autoajuste al contenido",
+        "Combinar celdas",
+        "Dividir tabla"
+      ],
+      "correcta": 1,
+      "explicacion": "Es la opción que adapta el ancho de las columnas según el largo del texto que escribimos."
+    },
+    {
+      "id": 172,
+      "tema": 11,
+      "enunciado": "¿Cuál de estos principios NO es un principio de la Protección de Datos?",
+      "opciones": [
+        "Exactitud",
+        "Lealtad",
+        "Publicidad universal de los datos",
+        "Confidencialidad"
+      ],
+      "correcta": 2,
+      "explicacion": "Al contrario, la protección de datos busca la privacidad, no la publicidad universal."
+    },
+    {
+      "id": 173,
+      "tema": 6,
+      "enunciado": "¿Es posible suspender la ejecución de un acto administrativo mientras se resuelve un recurso?",
+      "opciones": [
+        "No, nunca",
+        "Sí, si la ejecución pudiera causar perjuicios de imposible o difícil reparación",
+        "Sí, siempre que el interesado lo pida",
+        "Solo si hay una orden judicial previa"
+      ],
+      "correcta": 1,
+      "explicacion": "Como regla general no se suspende, pero se puede hacer excepcionalmente si hay daños graves e irreparables."
+    },
+    {
+      "id": 174,
+      "tema": 9,
+      "enunciado": "¿Cuál es la sanción por la comisión de una falta grave?",
+      "opciones": [
+        "Separación del servicio",
+        "Suspensión de funciones, traslado forzoso o demérito",
+        "Apercibimiento",
+        "Multa de hasta 3000 euros"
+      ],
+      "correcta": 1,
+      "explicacion": "Las faltas graves no conllevan separación (que es solo para muy graves) ni solo apercibimiento (que es para leves)."
+    },
+    {
+      "id": 175,
+      "tema": 1,
+      "enunciado": "¿En qué Título de la Constitución se regula la organización territorial del Estado?",
+      "opciones": [
+        "Título VI",
+        "Título VII",
+        "Título VIII",
+        "Título X"
+      ],
+      "correcta": 2,
+      "explicacion": "El Título VIII regula la Administración Local y las Comunidades Autónomas."
+    },
+    {
+      "id": 176,
+      "tema": 12,
+      "enunciado": "En un procesador de textos, el espacio entre líneas de un mismo párrafo se denomina:",
+      "opciones": [
+        "Interlineado",
+        "Sangría",
+        "Justificación",
+        "Tabulación"
+      ],
+      "correcta": 0,
+      "explicacion": "El interlineado puede ser sencillo, de 1.5 líneas, doble, etc."
+    },
+    {
+      "id": 177,
+      "tema": 3,
+      "enunciado": "El mandato de los Diputados de las Corts Valencianes finaliza:",
+      "opciones": [
+        "A los 3 años",
+        "A los 4 años o el día de la disolución de la Cámara",
+        "Cuando el Rey lo decida",
+        "Al finalizar el año natural"
+      ],
+      "correcta": 1,
+      "explicacion": "La legislatura autonómica dura cuatro años, salvo disolución anticipada."
+    },
+    {
+      "id": 178,
+      "tema": 5,
+      "enunciado": "¿Qué sucede si un interesado no realiza un trámite obligatorio en el plazo concedido?",
+      "opciones": [
+        "Se le da por desistido tras un nuevo plazo de 10 días",
+        "Se le impone una multa",
+        "Se le declara decaído en su derecho al trámite, pero el procedimiento sigue",
+        "Se archiva el expediente inmediatamente"
+      ],
+      "correcta": 2,
+      "explicacion": "Según el art. 73 de la Ley 39/2015, se pierde el derecho al trámite, pero la administración puede admitir la actuación si se hace antes o el mismo día de la notificación de caducidad."
+    },
+    {
+      "id": 179,
+      "tema": 10,
+      "enunciado": "La 'Prórroga del Presupuesto' se produce automáticamente si:",
+      "opciones": [
+        "El Pleno lo decide por mayoría",
+        "No se aprueba el nuevo presupuesto antes del primer día del ejercicio económico correspondiente",
+        "Hay una crisis económica nacional",
+        "El Interventor no firma la liquidación"
+      ],
+      "correcta": 1,
+      "explicacion": "Si el 1 de enero no hay presupuesto nuevo, se entiende prorrogado el del año anterior hasta que se apruebe el nuevo."
+    },
+    {
+      "id": 180,
+      "tema": 12,
+      "enunciado": "En Outlook o Gmail, el campo 'Asunto' sirve para:",
+      "opciones": [
+        "Poner la dirección del destinatario",
+        "Adjuntar un archivo",
+        "Indicar brevemente el tema del mensaje",
+        "Escribir el cuerpo del mensaje"
+      ],
+      "correcta": 2,
+      "explicacion": "El 'Subject' o Asunto es el título que el receptor ve antes de abrir el correo."
+    },
+    {
+      "id": 181,
+      "tema": 2,
+      "enunciado": "¿Qué mayoría se requiere para la investidura del Presidente del Gobierno en segunda votación?",
+      "opciones": [
+        "Mayoría absoluta",
+        "Mayoría simple",
+        "Dos tercios",
+        "Unanimidad"
+      ],
+      "correcta": 1,
+      "explicacion": "Si no hay mayoría absoluta en la primera, basta con la mayoría simple (más síes que noes) 48 horas después."
+    },
+    {
+      "id": 182,
+      "tema": 8,
+      "enunciado": "Los trienios consisten en una cantidad igual para cada Subgrupo por cada:",
+      "opciones": [
+        "Año de servicio",
+        "Tres años de servicio",
+        "Cinco años de servicio",
+        "Diez años de servicio"
+      ],
+      "correcta": 1,
+      "explicacion": "Un trienio es, por definición, un periodo de tres años de antigüedad."
+    },
+    {
+      "id": 183,
+      "tema": 4,
+      "enunciado": "¿En qué Boletín Oficial se publican las convocatorias de oposiciones de la Diputación de Alicante?",
+      "opciones": [
+        "Solo en el BOE",
+        "En el BOP de Alicante",
+        "En el DOGV únicamente",
+        "En el tablón de anuncios del Ayuntamiento"
+      ],
+      "correcta": 1,
+      "explicacion": "Las bases íntegras se publican en el Boletín Oficial de la Provincia (BOP) de Alicante."
+    },
+    {
+      "id": 184,
+      "tema": 11,
+      "enunciado": "¿Qué figura es obligatoria en las Administraciones Públicas para supervisar el cumplimiento de la protección de datos?",
+      "opciones": [
+        "El Alcalde",
+        "El Delegado de Protección de Datos (DPD/DPO)",
+        "El Director de Informática",
+        "Cualquier Auxiliar Administrativo"
+      ],
+      "correcta": 1,
+      "explicacion": "Las autoridades públicas deben designar obligatoriamente un Delegado de Protección de Datos."
+    },
+    {
+      "id": 185,
+      "tema": 12,
+      "enunciado": "En Word, ¿cuál es la función de 'Control de Cambios'?",
+      "opciones": [
+        "Cambiar el nombre del archivo automáticamente",
+        "Hacer un seguimiento de todas las ediciones realizadas en el documento",
+        "Cambiar de mayúsculas a minúsculas",
+        "Evitar que se borre el documento"
+      ],
+      "correcta": 1,
+      "explicacion": "Permite ver qué se ha borrado o añadido y quién lo ha hecho, ideal para trabajos colaborativos."
+    },
+    {
+      "id": 186,
+      "tema": 6,
+      "enunciado": "La 'Revocación' de un acto administrativo se produce cuando la Administración:",
+      "opciones": [
+        "Lo elimina por ser ilegal",
+        "Lo elimina por motivos de oportunidad o interés público, siendo un acto de gravamen",
+        "Lo envía al juzgado",
+        "Lo prorroga por un año"
+      ],
+      "correcta": 1,
+      "explicacion": "La revocación se permite para actos desfavorables o de gravamen, siempre que no sea contraria al ordenamiento."
+    },
+    {
+      "id": 187,
+      "tema": 10,
+      "enunciado": "¿Cuál es la función del 'Interventor' en una Diputación?",
+      "opciones": [
+        "Cobrar los impuestos a los ciudadanos",
+        "El control y fiscalización interna de la gestión económico-presupuestaria",
+        "Hacer las leyes provinciales",
+        "Dirigir a la policía provincial"
+      ],
+      "correcta": 1,
+      "explicacion": "El Interventor vigila que el gasto se ajuste a la legalidad y al presupuesto aprobado."
+    },
+    {
+      "id": 188,
+      "tema": 9,
+      "enunciado": "¿Qué es la 'Excedencia voluntaria por interés particular'?",
+      "opciones": [
+        "Un derecho que se tiene siempre al empezar a trabajar",
+        "Una situación que puede pedirse tras haber prestado servicios efectivos durante 5 años inmediatamente anteriores",
+        "Una baja por enfermedad",
+        "El paso a trabajar a otra administración"
+      ],
+      "correcta": 1,
+      "explicacion": "Se requiere un periodo previo de servicios de 5 años para poder solicitarla."
+    },
+    {
+      "id": 189,
+      "tema": 5,
+      "enunciado": "¿Qué ocurre si una notificación se intenta dos veces y no se puede entregar?",
+      "opciones": [
+        "Se archiva el expediente",
+        "Se publica en el Boletín Oficial del Estado (Tablón Edictal Único)",
+        "Se da por notificado al interesado automáticamente",
+        "Se envía a la policía para que lo localice"
+      ],
+      "correcta": 1,
+      "explicacion": "Es la notificación infructuosa que obliga a la publicación en el BOE (Art. 44 Ley 39/2015)."
+    },
+    {
+      "id": 190,
+      "tema": 12,
+      "enunciado": "¿Qué combinación de teclas abre el cuadro de búsqueda en Word?",
+      "opciones": [
+        "Ctrl + B",
+        "Ctrl + S",
+        "Ctrl + P",
+        "Alt + F4"
+      ],
+      "correcta": 0,
+      "explicacion": "En la versión en castellano, Ctrl + B es para 'Buscar'."
+    },
+    {
+      "id": 191,
+      "tema": 7,
+      "enunciado": "Contra las disposiciones administrativas de carácter general (Reglamentos):",
+      "opciones": [
+        "Cabe recurso de alzada",
+        "Cabe recurso de reposición",
+        "No cabe recurso en vía administrativa",
+        "Cabe recurso extraordinario de revisión"
+      ],
+      "correcta": 2,
+      "explicacion": "Contra las disposiciones generales no caben recursos administrativos; hay que acudir directamente a la vía contencioso-administrativa."
+    },
+    {
+      "id": 192,
+      "tema": 11,
+      "enunciado": "El acceso a la información pública puede ser denegado si perjudica:",
+      "opciones": [
+        "Los intereses políticos del Presidente",
+        "La seguridad nacional o la protección de datos personales de terceros",
+        "La comodidad de los funcionarios",
+        "El horario de oficina"
+      ],
+      "correcta": 1,
+      "explicacion": "Existen límites legales tasados (seguridad, defensa, intimidad) para el derecho de acceso."
+    },
+    {
+      "id": 193,
+      "tema": 3,
+      "enunciado": "¿Quién elige al Presidente de la Generalitat Valenciana?",
+      "opciones": [
+        "Los ciudadanos directamente",
+        "Las Corts de entre sus miembros",
+        "El Rey",
+        "El Presidente del Gobierno"
+      ],
+      "correcta": 1,
+      "explicacion": "El Presidente es elegido por las Corts y nombrado por el Rey."
+    },
+    {
+      "id": 194,
+      "tema": 4,
+      "enunciado": "¿Qué órgano de la Diputación asume las funciones de la Comisión de Cuentas?",
+      "opciones": [
+        "La Junta de Gobierno",
+        "Una Comisión Informativa específica integrada por miembros de todos los grupos",
+        "El Tesorero",
+        "El Ministerio de Hacienda"
+      ],
+      "correcta": 1,
+      "explicacion": "La Comisión Especial de Cuentas es obligatoria y debe tener representación de todos los grupos políticos."
+    },
+    {
+      "id": 195,
+      "tema": 10,
+      "enunciado": "¿Qué es la 'Caja Fija'?",
+      "opciones": [
+        "Una caja fuerte que no se puede abrir",
+        "Un sistema para pagar gastos menores de carácter periódico y repetitivo",
+        "El sueldo fijo del Presidente",
+        "Un impuesto sobre el ahorro"
+      ],
+      "correcta": 1,
+      "explicacion": "Los anticipos de caja fija permiten agilidad en pagos pequeños y corrientes."
+    },
+    {
+      "id": 196,
+      "tema": 8,
+      "enunciado": "La jornada de trabajo de los funcionarios se reduce por cuidado de hijo menor de 12 años en:",
+      "opciones": [
+        "Un 10%",
+        "Entre un octavo y la mitad de su duración",
+        "Dos horas fijas",
+        "No se puede reducir"
+      ],
+      "correcta": 1,
+      "explicacion": "Es un derecho de conciliación que conlleva la disminución proporcional de las retribuciones."
+    },
+    {
+      "id": 197,
+      "tema": 12,
+      "enunciado": "Para pasar de una página a otra rápidamente en Word sin usar el ratón, se usa:",
+      "opciones": [
+        "Av Pág / Re Pág",
+        "F1",
+        "Esc",
+        "Espacio"
+      ],
+      "correcta": 0,
+      "explicacion": "Las teclas de Avance y Retroceso de página son las estándar para navegación vertical rápida."
+    },
+    {
+      "id": 198,
+      "tema": 5,
+      "enunciado": "¿Cuál es la forma normal de terminación del procedimiento administrativo?",
+      "opciones": [
+        "El desistimiento",
+        "La resolución",
+        "La caducidad",
+        "La renuncia"
+      ],
+      "correcta": 1,
+      "explicacion": "La resolución expresa es la forma natural de finalizar un procedimiento."
+    },
+    {
+      "id": 199,
+      "tema": 1,
+      "enunciado": "¿A quién corresponde la guardia y custodia del sello de la Diputación?",
+      "opciones": [
+        "Al Presidente",
+        "Al Secretario General",
+        "Al Portero Mayor",
+        "A la Guardia Civil"
+      ],
+      "correcta": 1,
+      "explicacion": "Tradicionalmente y por reglamento, el Secretario es el custodio de los sellos y libros de actas."
+    },
+    {
+      "id": 200,
+      "tema": 12,
+      "enunciado": "En el correo electrónico, ¿qué significa 'Adjunto'?",
+      "opciones": [
+        "Un virus obligatoriamente",
+        "Un archivo independiente (PDF, foto, etc.) enviado junto al mensaje",
+        "La firma del remitente",
+        "El nombre del servidor"
+      ],
+      "correcta": 1,
+      "explicacion": "Un attachment o adjunto es cualquier archivo que 'viaja' con el texto del correo."
+    }
+  ]
+}

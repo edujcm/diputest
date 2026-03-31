@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Oposición - Aux. Administrativo Diputación de Alicante</title>
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --secondary: #3498db;
+            --success: #27ae60;
+            --error: #e74c3c;
+            --bg: #f4f7f6;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .header {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            width: 100%;
+            max-width: 800px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .menu-filter {
+            margin-top: 15px;
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        select, button {
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            font-size: 16px;
+        }
+
+        .stats {
+            margin-top: 10px;
+            font-weight: bold;
+            color: var(--primary);
+        }
+
+        #quiz-container {
+            width: 100%;
+            max-width: 800px;
+        }
+
+        .question-card {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+            animation: fadeIn 0.5s ease;
+        }
+
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
+        .question-text {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+            color: var(--primary);
+        }
+
+        .options-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .option {
+            padding: 12px 15px;
+            border: 2px solid #eee;
+            margin-bottom: 10px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .option:hover:not(.answered) {
+            background-color: #f0f7ff;
+            border-color: var(--secondary);
+        }
+
+        .option.correct {
+            background-color: #d4edda !important;
+            border-color: var(--success) !important;
+            color: #155724;
+            font-weight: bold;
+        }
+
+        .option.wrong {
+            background-color: #f8d7da !important;
+            border-color: var(--error) !important;
+            color: #721c24;
+        }
+
+        .explanation {
+            margin-top: 15px;
+            padding: 15px;
+            background-color: #e8f4fd;
+            border-left: 5px solid var(--secondary);
+            display: none;
+        }
+
+        .tema-tag {
+            display: inline-block;
+            background: var(--secondary);
+            color: white;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>Auxiliar Administrativo - Diputación de Alicante</h1>
+        <div class="menu-filter">
+            <label for="tema-select">Filtrar por Tema:</label>
+            <select id="tema-select" onchange="filterQuestions()">
+                <option value="all">Todos los temas (200 preguntas)</option>
+                </select>
+            <button onclick="shuffleAndReset()">Mezclar preguntas</button>
+        </div>
+        <div class="stats" id="stats-display">Cargando preguntas...</div>
+    </div>
+
+    <div id="quiz-container">
+        </div>
+
+    <script>
+        let allQuestions = [];
+        let filteredQuestions = [];
+
+        // 1. Cargar el JSON
+        fetch('preguntasDiputacion.json')
+            .then(response => response.json())
+            .then(data => {
+                allQuestions = data.preguntas;
+                setupFilter();
+                filterQuestions(); // Carga inicial
+            })
+            .catch(error => {
+                document.getElementById('stats-display').innerText = "Error al cargar el archivo JSON. Asegúrate de que se llame 'preguntasDiputacion.json'.";
+                console.error("Error:", error);
+            });
+
+        // 2. Configurar las opciones del select de temas
+        function setupFilter() {
+            const select = document.getElementById('tema-select');
+            const temas = [...new Set(allQuestions.map(q => q.tema))].sort((a, b) => a - b);
+            
+            temas.forEach(tema => {
+                const option = document.createElement('option');
+                option.value = tema;
+                option.textContent = `Tema ${tema}`;
+                select.appendChild(option);
+            });
+        }
+
+        // 3. Filtrar y mostrar
+        function filterQuestions() {
+            const val = document.getElementById('tema-select').value;
+            if (val === 'all') {
+                filteredQuestions = [...allQuestions];
+            } else {
+                filteredQuestions = allQuestions.filter(q => q.tema == val);
+            }
+            
+            updateStats();
+            renderQuestions();
+        }
+
+        function updateStats() {
+            document.getElementById('stats-display').innerText = `Total preguntas: ${filteredQuestions.length}`;
+        }
+
+        function renderQuestions() {
+            const container = document.getElementById('quiz-container');
+            container.innerHTML = '';
+
+            filteredQuestions.forEach((q, index) => {
+                const card = document.createElement('div');
+                card.className = 'question-card';
+                
+                card.innerHTML = `
+                    <span class="tema-tag">Tema ${q.tema}</span>
+                    <div class="question-text">${index + 1}. ${q.enunciado}</div>
+                    <div class="options-list" id="opts-${q.id}">
+                        ${q.opciones.map((opt, i) => `
+                            <div class="option" onclick="checkAnswer(${q.id}, ${i}, ${q.correcta})">${opt}</div>
+                        `).join('')}
+                    </div>
+                    <div class="explanation" id="exp-${q.id}">
+                        <strong>Explicación:</strong> ${q.explicacion}
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        // 4. Lógica de respuesta
+        function checkAnswer(questionId, selectedIdx, correctIdx) {
+            const optionsContainer = document.getElementById(`opts-${questionId}`);
+            const options = optionsContainer.getElementsByClassName('option');
+            const explanation = document.getElementById(`exp-${questionId}`);
+
+            // Evitar que responda dos veces a la misma
+            if (options[0].classList.contains('answered')) return;
+
+            for (let i = 0; i < options.length; i++) {
+                options[i].classList.add('answered');
+                if (i === correctIdx) {
+                    options[i].classList.add('correct');
+                }
+                if (i === selectedIdx && selectedIdx !== correctIdx) {
+                    options[i].classList.add('wrong');
+                }
+            }
+
+            explanation.style.display = 'block';
+        }
+
+        // Mezclar preguntas
+        function shuffleAndReset() {
+            filteredQuestions.sort(() => Math.random() - 0.5);
+            renderQuestions();
+        }
+    </script>
+</body>
+</html>
