@@ -1040,12 +1040,7 @@
       ],
       "correcta": 1,
       "explicacion": "Son funciones reservadas a funcionarios de administración local con habilitación de carácter nacional (Secretaría)."
-    }
-  ]
-}
-{
-  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
-  "preguntas": [
+    },
     {
       "id": 81,
       "tema": 3,
@@ -1565,12 +1560,7 @@
       ],
       "correcta": 0,
       "explicacion": "Las pagas extraordinarias forman parte de las retribuciones básicas junto con el sueldo y los trienios."
-    }
-  ]
-}
-{
-  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
-  "preguntas": [
+    },
     {
       "id": 121,
       "tema": 4,
