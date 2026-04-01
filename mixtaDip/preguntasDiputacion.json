@@ -130,15 +130,8 @@
       ],
       "correcta": 1,
       "explicacion": "El TREBEP exige el acatamiento de la Constitución y del Estatuto de Autonomía correspondiente."
-    }
-  ]
-}
-
-{
-  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
-  "fuente": "BOP Alicante Nº 118, 25/06/2025",
-  "preguntas": [
-    {
+    },
+     {
       "id": 11,
       "tema": 4,
       "enunciado": "Según las bases, ¿cuántos miembros integran la Comisión Técnica de Valoración?",
@@ -267,14 +260,7 @@
       ],
       "correcta": 2,
       "explicacion": "En caso de ausencia, la presidencia la ostentará el miembro de mayor jerarquía, antigüedad y edad[cite: 473]."
-    }
-  ]
-}
-
-
-{
-  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
-  "preguntas": [
+    },
     {
       "id": 21,
       "tema": 5,
@@ -534,13 +520,7 @@
       ],
       "correcta": 1,
       "explicacion": "Es el derecho de acceso regulado en la normativa de protección de datos."
-    }
-  ]
-}
-
-{
-  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
-  "preguntas": [
+    },
     {
       "id": 41,
       "tema": 5,
@@ -800,13 +780,7 @@
       ],
       "correcta": 2,
       "explicacion": "La separación del servicio es la sanción más grave y solo es aplicable a las faltas muy graves."
-    }
-  ]
-}
-
-{
-  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
-  "preguntas": [
+    },
     {
       "id": 61,
       "tema": 5,
@@ -1331,14 +1305,8 @@
       ],
       "correcta": 1,
       "explicacion": "Es el alto comisionado de las Corts para la defensa de los derechos y libertades del Título I de la Constitución."
-    }
-  ]
-}
-
-{
-  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
-  "preguntas": [
-    {
+    },
+   {
       "id": 101,
       "tema": 6,
       "enunciado": "Según la Ley 40/2015, ¿qué principio supone que las Administraciones Públicas deben actuar con neutralidad e imparcialidad?",
@@ -1862,13 +1830,7 @@
       ],
       "correcta": 1,
       "explicacion": "En borradores se guardan los correos en proceso de redacción que aún no han salido del equipo."
-    }
-  ]
-}
-
-{
-  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
-  "preguntas": [
+    },
     {
       "id": 141,
       "tema": 4,
@@ -2128,13 +2090,7 @@
       ],
       "correcta": 1,
       "explicacion": "La regla permite ajustar márgenes, sangrías y paradas de tabulación arrastrando sus iconos."
-    }
-  ]
-}
-
-{
-  "oposicion": "Auxiliar de Administración General - Diputación de Alicante",
-  "preguntas": [
+    },
     {
       "id": 161,
       "tema": 7,
